@@ -1,5 +1,5 @@
 <?php 
-	$page = "Home";
+	$_GLOBAL['page'] = "Home";
 	include 'header.php'; 
 ?>
 <div class="starter-template">

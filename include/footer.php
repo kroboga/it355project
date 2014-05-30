@@ -4,7 +4,7 @@
 		<?php
 			if (!is_null($page))
 			{
-				echo "<script>$('#menu".$page."').addClass('active')</script>"
+				echo "<script>$('#menu".$page."').addClass('active')</script>";
 			}
 		?>
 	</body>
