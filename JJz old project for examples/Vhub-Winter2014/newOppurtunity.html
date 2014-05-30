@@ -1,0 +1,104 @@
+    <!DOCTYPE HTML>
+    <html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="">
+        <meta name="author" content="">
+        <link rel="shortcut icon" href="assets/img/favicon.png">
+        <title>V-HUB</title>
+        <!-- Bootstrap core CSS -->
+        <link href="assets/css/bootstrap.css" rel="stylesheet">
+        <!-- Custom styles for this template -->
+        <link href="assets/css/mainP.css" rel="stylesheet">
+        <!-- Fonts from Google Fonts -->
+        <link href='http://fonts.googleapis.com/css?family=Lato:300,400,900' rel='stylesheet' type='text/css'>
+
+           <!-- date picker -->
+         <link rel="stylesheet" href="//code.jquery.com/ui/1.10.4/themes/smoothness/jquery-ui.css">
+        <script src="https://code.jquery.com/jquery-1.9.1.js"></script>
+        <script src="https://code.jquery.com/ui/1.10.4/jquery-ui.js"></script>
+        <script>
+            $(function () {
+                $(".datepicker").Datepicker();
+            });
+        </script>
+        <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!--[if lt IE 9]>
+          <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+          <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+        <![endif]-->
+        </head>
+    <body>
+        <!-- Fixed navbar -->
+        <div class="navbar navbar-default navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="index"><b>V-HUB</b>
+                </div>
+                <div class="navbar-collapse collapse">
+                        <a href="ProviderInbox.html">
+                            <img src="images/Inbox.jpg" style="height:50px; width:auto; margin-left:720px;"/>
+                        </a>
+                    <ul class="nav navbar-nav navbar-right">
+                        <li>
+                            <a href="index.html" class="btn btn-default btn-success btn-lg" onclick="alert('Loggged Out');"><span class="glyphicon glyphicon-user"></span> </a>
+                        </li>
+                    </ul>
+                </div><!--/.nav-collapse -->
+            </div>
+        </div>
+
+        <div id="headerwrap" style="margin-top: 53px; min-height: 986px">
+            <div class="container">
+                <div class="row">
+                    <div class="col">
+                        <form action="editProvider.html">
+                            <a href="editProviderProfile.html"><input id="Button1" type="button" value="Edit Profile" style="border-radius: 15px 15px 15px 15px;"/></a>
+                        </form>
+                        <br />
+                        <img alt="" src="images/monocle.jpg" style="border-style: solid; border-color: inherit; border-width: medium; height: 142px; width: 152px;"/>
+                    </div>
+
+                    <div class="col" style="margin-left:190px;">
+                       <h1>Create new opportunity<br/></h1>
+                           
+                       <img alt="" src="images/insert.jpg" style="border:solid; width:320px; height:240px; margin-top:40px; margin-bottom:40px;" onclick="alert('upload image dialogue');"/>
+                       <a href="ProviderView.html"><img style="height: 50px; width: auto; float: right; margin-right: 430px; margin-top: 225px;" src="images/save.png" onclick="alert('Opportunity Saved! One step closer to making the world a better place :)');"></a>
+                        <br /> 
+                        
+                        <form style="margin-top:30px; margin-bottom:50px; border: solid; padding:10px 10px 10px 10px;">
+                            <b>Opportunity Name: <input type="text" name="name" style="width: 85%;"/><br/><br />
+                            Description: <textarea rows="2" cols="20" style="width: 949px; height: 237px;"></textarea><br /> <br/>
+                            Date(s): <input type="text" class="datepicker"  placeholder="start date" onclick="datepicker();"> <input type="text" class="datepicker"  placeholder="end date"> <br /><br />
+
+                            Time: <select id="Select1" name="D1"> <option>12:00PM</option> <option>12:00AM</option> </select> <br /><br />
+                            Location: <input type="text" name="location" style="width: 85%;" /> <br /><br />
+                            Type: <select id="Select2" name="D1"> <option>Hospital/Health Care</option> <option>Technology</option> </select> <br /><br />
+                            Volunteers needed: <input type="text" name="volunteersNeeded" placeholder="enter a number" style="width:auto;"/><br/><br />
+                            Expiration Date: <input type="text" class="datepicker"  placeholder="When should this listing end" /><br /><br />
+							Searchability/Visibility: <input type="checkbox" style="height:15px; width:15px; margin-right:15px; margin-left:15px;"/>Make this opportunity public so that unregistered users can see it.</b>
+                        </form>
+							
+                    </div>
+                    <!-- /col> -->
+            </div>
+
+                    
+
+            </div><!-- /container -->
+        </div><!-- /headerwrap -->
+        <!-- Bootstrap core JavaScript
+        ================================================== -->
+        <!-- Placed at the end of the document so the pages load faster -->
+        <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+        <script src="assets/js/bootstrap.min.js"></script>
+       
+    </body>
+</html>

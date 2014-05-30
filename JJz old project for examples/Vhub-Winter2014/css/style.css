@@ -1,0 +1,61 @@
+	
+More 
+ 
+My DriveSchoolITIT355Milestone3SiteHighFidelityDmitryKcodesrccss
+TITLE
+OWNER
+LAST MODIFIED
+Filebootstrap-theme.cssShared
+me
+Mar 12‎me
+Filebootstrap-theme.min.cssShared
+me
+Mar 12‎me
+Filebootstrap.cssShared
+me
+Mar 12‎me
+Filebootstrap.min.cssShared
+me
+Mar 12‎me
+Filestyle.cssShared
+me
+Mar 12‎me
+You have exited the viewer
+You have exited the viewer
+* {
+
+font-family: 'Lato', sans-serif !important;
+}
+
+body {
+background-color: #3498db;
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+  color: #555;
+
+  -webkit-font-smoothing: antialiased;
+  -webkit-overflow-scrolling: touch;
+}
+
+.form-group {
+margin-bottom: 26px;
+}
+h3 {
+font-size: 47px;
+color: white;
+}
+
+label
+{
+color: white !important; 
+}
+
+b,strong
+{
+color: white !important;
+}
+h4
+{
+color: #3498db;
+}
