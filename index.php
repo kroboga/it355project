@@ -1,4 +1,7 @@
-<?php include 'header.php'; ?>
+<?php 
+	$page = "Home";
+	include 'header.php'; 
+?>
 <div class="starter-template">
 	<div class="jumbotron">
 		<h1>Under Construction</h1>
