@@ -40,8 +40,8 @@
 				</div>
 				<div class="collapse navbar-collapse">
 					<ul class="nav navbar-nav">
-						<li class="active"><a href="/lab4/">Home</a></li>
-						<li><a href="/find-opportunities.php">Find Opportunities</a></li>
+						<li><a id="menuHome" href="/">Home</a></li>
+						<li><a id="menuFindOpportunities" href="/find-opportunities.php">Find Opportunities</a></li>
 						<li><a href="/dashboard.php">Dashboard</a></li>
 						<li><a href="/aboutus.php">About Us</a></li>
 						<?php
