@@ -1,3 +1,10 @@
+<?php
+	session_start();
+	if (array_key_exists('loggedin', $_SESSION) && $_SESSION['loggedin'])
+		$loggedin = true;
+	else
+		$loggedin = false;
+?>
 <!DOCTYPE html>
 <html lang="en">
 	<head>
@@ -37,7 +44,12 @@
 						<li><a href="/find-opportunities.php">Find Opportunities</a></li>
 						<li><a href="/dashboard.php">Dashboard</a></li>
 						<li><a href="/aboutus.php">About Us</a></li>
-						<li><a href="/lab4/people/">People</a></li>
+						<?php
+							if ($loggedin)
+								echo "<li><a href=\"/auth/logout/\">Logout</a></li>";
+							else
+								echo "<li><a href=\"/auth/login\">Register/Login</a></li>";
+						?>
 					</ul>
 				</div>
 			</div>
