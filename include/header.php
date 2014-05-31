@@ -25,8 +25,40 @@
 				text-align: center;
 			}
 		</style>
+		<script>
+		function showLogin()
+		{
+			$('#loginModal').modal();
+		}
+		</script>
 	</head>
 	<body>
+		<div class="modal fade" id="loginModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+			<div class="modal-dialog">
+				<div class="modal-content">
+					<form role="form" action="/auth/login/index.php">
+						<div class="modal-header">
+							<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+							<h4 class="modal-title" id="myModalLabel">Login</h4>
+						</div>
+						<div class="modal-body">					
+							<div class="form-group">
+								<label for="exampleInputEmail1">Email address</label>
+								<input type="email" class="form-control" id="email" placeholder="E-mail">
+							</div>
+							<div class="form-group">
+								<label for="exampleInputPassword1">Password</label>
+								<input type="password" class="form-control" id="password" placeholder="Password">
+							</div>
+						</div>
+						<div class="modal-footer">
+							<p><a href="/auth/register/">First time? Sign up!</a></p>
+							<button type="submit" class="btn btn-primary">Login</button>
+						</div>
+					</form>
+				</div>
+			</div>
+		</div>
 		<div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
 			<div class="container">
 				<div class="navbar-header">
@@ -48,7 +80,7 @@
 							if ($loggedin)
 								echo "<li id=\"menuLogin\"><a href=\"/auth/logout/\">Logout</a></li>";
 							else
-								echo "<li id=\"menuLogin\"><a href=\"/auth/login\">Register/Login</a></li>";
+								echo "<li id=\"menuLogin\"><a href=\"javascript:showLogin();\">Register/Login</a></li>";
 						?>
 					</ul>
 				</div>
