@@ -36,19 +36,19 @@
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
 					</button>
-					<a class="navbar-brand" href="#">IT355-Lab4</a>
+					<a class="navbar-brand" href="#">V-Hub</a>
 				</div>
 				<div class="collapse navbar-collapse">
 					<ul class="nav navbar-nav">
 						<li id="menuHome"><a href="/">Home</a></li>
-						<li id="menuFindOpportunity"><a  href="/search/opportunity">Find Opportunity</a></li>
+						<li id="menuFindOpportunity"><a  href="/search/opportunity/">Find Opportunity</a></li>
 						<li id="menuDashboard"><a href="/dashboard/">Dashboard</a></li>
 						<li id="menuAbout"><a href="/about/">About Us</a></li>
 						<?php
 							if ($loggedin)
-								echo "<li><a href=\"/auth/logout/\">Logout</a></li>";
+								echo "<li id=\"menuLogin\"><a href=\"/auth/logout/\">Logout</a></li>";
 							else
-								echo "<li><a href=\"/auth/login\">Register/Login</a></li>";
+								echo "<li id=\"menuLogin\"><a href=\"/auth/login\">Register/Login</a></li>";
 						?>
 					</ul>
 				</div>
