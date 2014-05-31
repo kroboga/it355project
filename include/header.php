@@ -41,9 +41,9 @@
 				<div class="collapse navbar-collapse">
 					<ul class="nav navbar-nav">
 						<li id="menuHome"><a href="/">Home</a></li>
-						<li id="menuFindOpportunities"><a  href="/find-opportunities.php">Find Opportunities</a></li>
-						<li><a href="/dashboard.php">Dashboard</a></li>
-						<li><a href="/aboutus.php">About Us</a></li>
+						<li id="menuFindOpportunity"><a  href="/search/opportunity">Find Opportunity</a></li>
+						<li id="menuDashboard"><a href="/dashboard/">Dashboard</a></li>
+						<li id="menuAbout"><a href="/about/">About Us</a></li>
 						<?php
 							if ($loggedin)
 								echo "<li><a href=\"/auth/logout/\">Logout</a></li>";
