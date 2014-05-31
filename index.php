@@ -2,11 +2,6 @@
 	$page = "volunteerSearch";
 	include 'header.php'; 
 ?>
-<!DOCTYPE html>
-
-<body>
-
-
 	<div class="starter-template">
 		<div class="jumbotron">
 			<h1>V-Hub</h1>
@@ -14,8 +9,4 @@
 			<p><a class="btn btn-primary btn-lg" role="button" href="#">Click me!</a></p>
 		</div>
 	</div>
-
 <?php include 'footer.php'; ?>
-
-</body>
-<?php?>
