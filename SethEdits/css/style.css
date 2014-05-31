@@ -1,0 +1,9 @@
+/*Use this css file for universal css that should apply to color schemes for every page*/
+html body div.container div.row div.col-md-5{
+	text-align: center;
+}
+
+.navbar navbar-default navbar-fixed-top{
+	background-color: #3498db;
+	color: white;
+}
