@@ -179,9 +179,9 @@ body {
 		<div class="item">
 			<div class="container">
 				<div class="carousel-caption">
-					<h1>Results of Why Volunteer Survery are in</h1>
+					<h1>Results of "Why Volunteer?" Survey are in</h1>
 					<p>A few weeks ago, we asked you why you volunteer. See what we found out, and how it affects you.</p>
-					<p><a class="btn btn-lg btn-primary pull-right" href="#" role="button">Learn more</a></p>
+					<p><a class="btn btn-lg btn-primary " href="#" role="button">Learn more</a></p>
 				</div>
 			</div>
 		</div>
@@ -195,7 +195,7 @@ body {
 		<div class="col-md-12">
 			<h1>What is V-Hub.com?</h1>
 			<p>V-Hub.com is the premiere site for doing awesome stuff. Namely, volunteering. Lots of people want to help, and lots of people need help. So why is it so darn difficult to find each other? V-Hub.com is the answer. With a few simple clicks, you can find volunteering opportunities that match exactly what you are looking for. Have an hour between appointments, and want to kill some time? Done. Want to volunteer regularly at your local hospital? Done. Need 500 people to help clean up a creek? Done. </p>
-			<p><a class="btn btn-lg btn-primary" href="/auth/register/" role="button">Sign Up</a></p>
+			<p><a class="btn btn-lg btn-primary pull-right" href="/auth/register/" role="button">Sign Up</a></p>
 		</div>
 	<hr class="featurette-divider">
 

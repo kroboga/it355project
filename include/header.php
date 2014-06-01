@@ -19,7 +19,7 @@
 		<link href="/css/bootstrap.min.css" rel="stylesheet">
 		<link rel='stylesheet' type='text/css' href='/css/bootstrap-theme.min.css'>
 		<link rel='stylesheet' type='text/css' href='/css/style.css'>
-
+		<script src="/js/holder.js"></script>
 		<script>
 		function showLogin()
 		{
