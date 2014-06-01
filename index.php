@@ -55,15 +55,6 @@ body {
 	height: 500px;
 	background-color: #777;
 }
-.carousel-inner > .item > img {
-	position: absolute;
-	top: 0;
-	left: 0;
-	min-width: 100%;
-	height: 500px;
-}
-
-
 
 /* MARKETING CONTENT
 -------------------------------------------------- */
@@ -159,6 +150,7 @@ body {
 	</ol>
 	<div class="carousel-inner">
 		<div class="item active">
+			<img src="/img/carousel/1.jpg" alt="Third slide" style="margin:auto;">
 			<div class="container">
 				<div class="carousel-caption">
 					<h1>People are Awesome</h1>
@@ -168,7 +160,7 @@ body {
 			</div>
 		</div>
 		<div class="item">
-			<img data-src="holder.js/900x500/auto/#555:#5a5a5a/text:Third slide" alt="Third slide">
+			<img src="/img/carousel/2.jpg" alt="Third slide" style="margin:auto;">
 			<div class="container">
 				<div class="carousel-caption">
 					<h1>Steps for Volunteering</h1>
@@ -178,6 +170,7 @@ body {
 			</div>
 		</div>
 		<div class="item">
+			<img src="/img/carousel/3.jpg" alt="Third slide" style="margin:auto;">
 			<div class="container">
 				<div class="carousel-caption">
 					<h1>Results of "Why Volunteer?" survey are in</h1>
