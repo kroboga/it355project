@@ -2,6 +2,7 @@
 	$page = "volunteer search";
 	include "header.php"; 
 ?>
+<div class="container">
 	<!-- format of 1 row and 5 columns, we can change this as neccesarry, I felt it a good start -->
 	<div class="row">
 		
@@ -36,4 +37,5 @@
 	
 	<!-- end of row -->
 	</div>
+</div>
 <?php include 'footer.php'; ?>
