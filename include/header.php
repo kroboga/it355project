@@ -16,8 +16,8 @@
 		<link rel="shortcut icon" href="/assets/ico/favicon.ico">
 		<title>IT355-Lab4</title>
 		<!-- css includes -->
-		<link href="/css/bootstrap.min.css" rel="stylesheet">
-		<link rel='stylesheet' type='text/css' href='css/bootstrap-theme-min.css'>
+		<link href="css/bootstrap.min.css" rel="stylesheet">
+		<link rel='stylesheet' type='text/css' href='css/bootstrap-theme.min.css'>
 		<link rel='stylesheet' type='text/css' href='css/style.css'>
 
 		<style>
