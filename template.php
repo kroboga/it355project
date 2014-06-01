@@ -1,6 +1,6 @@
 <?php 
 	$page = "template";
-	include "include/header.php"; 
+	include "header.php"; 
 ?>
 	<!-- format of 1 row and 5 columns, we can change this as neccesarry, I felt it a good start -->
 	<div class="row">
@@ -25,4 +25,4 @@
 	
 	<!-- end of row -->
 	</div>
-<?php include 'include/footer.php'; ?>
+<?php include 'footer.php'; ?>
