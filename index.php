@@ -151,10 +151,7 @@ body {
 	}
 }
 </style>
-<!-- Carousel
-================================================== -->
-<div id="myCarousel" class="carousel slide" data-ride="carousel">
-	<!-- Indicators -->
+<div id="carousel" class="carousel slide" data-ride="carousel">
 	<ol class="carousel-indicators">
 		<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
 		<li data-target="#myCarousel" data-slide-to="1"></li>
@@ -164,17 +161,17 @@ body {
 		<div class="item active">
 			<div class="container">
 				<div class="carousel-caption">
-					<h1>Example headline.</h1>
-					<p>Note: If you're viewing this page via a <code>file://</code> URL, the "next" and "previous" Glyphicon buttons on the left and right might not load/display properly due to web browser security rules.</p>
-					<p><a class="btn btn-lg btn-primary" href="#" role="button">Sign up today</a></p>
+					<h1>People are Awesome</h1>
+					<p>500,000 people did some awesome volunteering May 31, 2014 by waking up and getting ready for the day.</p>
+					<p><a class="btn btn-lg btn-primary" href="#" role="button">Learn More/a></p>
 				</div>
 			</div>
 		</div>
 		<div class="item">
 			<div class="container">
 				<div class="carousel-caption">
-					<h1>Another example headline.</h1>
-					<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+					<h1>Tips for Volunteering</h1>
+					<p>Read what Professor James T. Kirk calls the 393 essential steps to volunteering</p>
 					<p><a class="btn btn-lg btn-primary" href="#" role="button">Learn more</a></p>
 				</div>
 			</div>
@@ -182,14 +179,60 @@ body {
 		<div class="item">
 			<div class="container">
 				<div class="carousel-caption">
-					<h1>One more for good measure.</h1>
-					<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-					<p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p>
+					<h1>Results of Why Volunteer Survery are in</h1>
+					<p>A few weeks ago, we asked you why you volunteer. See what we found out, and how it affects you.</p>
+					<p><a class="btn btn-lg btn-primary pull-right" href="#" role="button">Learn more</a></p>
 				</div>
 			</div>
 		</div>
 	</div>
-	<a class="left carousel-control" href="#myCarousel" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>
-	<a class="right carousel-control" href="#myCarousel" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
-</div><!-- /.carousel -->
+	<a class="left carousel-control" href="#carousel" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>
+	<a class="right carousel-control" href="#carousel" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
+</div>
+
+<div class="container">
+	<div class="row">
+		<div class="col-md-12">
+			<h1>What is V-Hub.com?</h1>
+			<p>V-Hub.com is the premiere site for doing awesome stuff. Namely, volunteering. Lots of people want to help, and lots of people need help. So why is it so darn difficult to find each other? V-Hub.com is the answer. With a few simple clicks, you can find volunteering opportunities that match exactly what you are looking for. Have an hour between appointments, and want to kill some time? Done. Want to volunteer regularly at your local hospital? Done. Need 500 people to help clean up a creek? Done. </p>
+			<p><a class="btn btn-lg btn-primary" href="/auth/register/" role="button">Sign Up</a></p>
+		</div>
+	<hr class="featurette-divider">
+
+      <div class="row featurette">
+        <div class="col-md-7">
+          <h2 class="featurette-heading">First featurette heading. <span class="text-muted">It'll blow your mind.</span></h2>
+          <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+        </div>
+        <div class="col-md-5">
+          <img class="featurette-image img-responsive" data-src="/js/holder.js/500x500/auto" alt="Generic placeholder image">
+        </div>
+      </div>
+
+      <hr class="featurette-divider">
+
+      <div class="row featurette">
+        <div class="col-md-5">
+          <img class="featurette-image img-responsive" data-src="/js/holder.js/500x500/auto" alt="Generic placeholder image">
+        </div>
+        <div class="col-md-7">
+          <h2 class="featurette-heading">Oh yeah, it's that good. <span class="text-muted">See for yourself.</span></h2>
+          <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+        </div>
+      </div>
+
+      <hr class="featurette-divider">
+
+      <div class="row featurette">
+        <div class="col-md-7">
+          <h2 class="featurette-heading">And lastly, this one. <span class="text-muted">Checkmate.</span></h2>
+          <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+        </div>
+        <div class="col-md-5">
+          <img class="featurette-image img-responsive" data-src="/js/holder.js/500x500/auto" alt="Generic placeholder image">
+        </div>
+      </div>
+
+      <hr class="featurette-divider">
+</div>
 <?php include 'footer.php'; ?>
