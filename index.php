@@ -202,8 +202,8 @@ body {
 	<hr class="featurette-divider">
 	<div class="row featurette">
 		<div class="col-md-7">
-			<h2 class="featurette-heading">First featurette heading. <span class="text-muted">It'll blow your mind.</span></h2>
-			<p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+			<h2 class="featurette-heading">I got tired of making stuff. <span class="text-muted">So the rest is bacon ipsum.</span></h2>
+			<p class="lead">Bacon ipsum dolor sit amet drumstick short ribs ground round turducken ham short loin pork loin. Flank fatback meatball hamburger chuck landjaeger sirloin shank capicola ham hock tail tongue beef jerky pork. Pork belly capicola pork chop, pig jerky strip steak corned beef ham hock fatback drumstick flank. Venison frankfurter jerky short ribs chuck biltong, ribeye meatloaf pork shankle kevin tongue bacon salami cow. Short loin cow pork belly, bresaola beef tri-tip tenderloin.</p>
 		</div>
 		<div class="col-md-5">
 			<img class="featurette-image img-responsive" data-src="/js/holder.js/500x500/auto" alt="Generic placeholder image">
@@ -216,16 +216,16 @@ body {
 			<img class="featurette-image img-responsive" data-src="/js/holder.js/500x500/auto" alt="Generic placeholder image">
 		</div>
 		<div class="col-md-7">
-			<h2 class="featurette-heading">Oh yeah, it's that good. <span class="text-muted">See for yourself.</span></h2>
-			<p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+			<h2 class="featurette-heading">And yet, you're still reading. <span class="text-muted">Even now.</span></h2>
+			<p class="lead">Bacon ipsum dolor sit amet drumstick short ribs ground round turducken ham short loin pork loin. Flank fatback meatball hamburger chuck landjaeger sirloin shank capicola ham hock tail tongue beef jerky pork. Pork belly capicola pork chop, pig jerky strip steak corned beef ham hock fatback drumstick flank. Venison frankfurter jerky short ribs chuck biltong, ribeye meatloaf pork shankle kevin tongue bacon salami cow. Short loin cow pork belly, bresaola beef tri-tip tenderloin.</p>
 		</div>
 	</div>
 
 	<hr class="featurette-divider">
 	<div class="row featurette">
 		<div class="col-md-7">
-			<h2 class="featurette-heading">And lastly, this one. <span class="text-muted">Checkmate.</span></h2>
-			<p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+			<h2 class="featurette-heading">The good news is, <span class="text-muted">this is the last one.</span></h2>
+			<p class="lead">Bacon ipsum dolor sit amet drumstick short ribs ground round turducken ham short loin pork loin. Flank fatback meatball hamburger chuck landjaeger sirloin shank capicola ham hock tail tongue beef jerky pork. Pork belly capicola pork chop, pig jerky strip steak corned beef ham hock fatback drumstick flank. Venison frankfurter jerky short ribs chuck biltong, ribeye meatloaf pork shankle kevin tongue bacon salami cow. Short loin cow pork belly, bresaola beef tri-tip tenderloin.</p>
 		</div>
 		<div class="col-md-5">
 			<img class="featurette-image img-responsive" data-src="/js/holder.js/500x500/auto" alt="Generic placeholder image">
