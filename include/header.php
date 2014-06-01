@@ -31,7 +31,7 @@
 		<div class="modal fade" id="loginModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
 			<div class="modal-dialog">
 				<div class="modal-content">
-					<form role="form" action="/auth/login/index.php">
+					<form role="form" action="/auth/login/">
 						<div class="modal-header">
 							<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
 							<h4 class="modal-title" id="myModalLabel">Login</h4>
@@ -67,7 +67,7 @@
 				</div>
 				<div class="collapse navbar-collapse">
 					<ul class="nav navbar-nav">
-						<li id="menuHome"><a href="/index.php">Home</a></li>
+						<li id="menuHome"><a href="/">Home</a></li>
 						<li id="menuFindOpportunity"><a  href="/search/opportunity/">Find Opportunity</a></li>
 						<li id="menuDashboard"><a href="/dashboard/">Dashboard</a></li>
 						<li id="menuAbout"><a href="/about/">About Us</a></li>

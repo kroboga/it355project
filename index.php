@@ -168,9 +168,10 @@ body {
 			</div>
 		</div>
 		<div class="item">
+			<img data-src="holder.js/900x500/auto/#555:#5a5a5a/text:Third slide" alt="Third slide">
 			<div class="container">
 				<div class="carousel-caption">
-					<h1>Tips for Volunteering</h1>
+					<h1>Steps for Volunteering</h1>
 					<p>Read what Professor James T. Kirk calls the 393 essential steps to volunteering</p>
 					<p><a class="btn btn-lg btn-primary" href="#" role="button">Learn more</a></p>
 				</div>
@@ -179,7 +180,7 @@ body {
 		<div class="item">
 			<div class="container">
 				<div class="carousel-caption">
-					<h1>Results of "Why Volunteer?" Survey are in</h1>
+					<h1>Results of "Why Volunteer?" survey are in</h1>
 					<p>A few weeks ago, we asked you why you volunteer. See what we found out, and how it affects you.</p>
 					<p><a class="btn btn-lg btn-primary " href="#" role="button">Learn more</a></p>
 				</div>
