@@ -163,7 +163,7 @@ body {
 				<div class="carousel-caption">
 					<h1>People are Awesome</h1>
 					<p>500,000 people did some awesome volunteering May 31, 2014 by waking up and getting ready for the day.</p>
-					<p><a class="btn btn-lg btn-primary" href="#" role="button">Learn More/a></p>
+					<p><a class="btn btn-lg btn-primary" href="#" role="button">Learn More</a></p>
 				</div>
 			</div>
 		</div>
