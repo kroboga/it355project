@@ -1,5 +1,5 @@
 <?php 
-	$page = "template";
+	$page = "volunteer results";
 	include "header.php"; 
 ?>
 	<!-- format of 1 row and 5 columns, we can change this as neccesarry, I felt it a good start -->
@@ -11,7 +11,7 @@
 
 		<!-- column 2 - center -->
 		<div class="col-md-4">
-			<h1>This is a page title</h1>
+			<h1>Volunteer search results</h1>
 			<p>This is some page content</p>
 		</div>
 

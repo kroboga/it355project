@@ -15,16 +15,11 @@
 		<meta name="author" content="">
 		<link rel="shortcut icon" href="/assets/ico/favicon.ico">
 		<title>V-Hub.com</title>
+		<!-- css includes -->
 		<link href="/css/bootstrap.min.css" rel="stylesheet">
-		<style>
-			body {
-				padding-top: 50px;
-			}
-			.starter-template {
-				padding: 40px 15px;
-				text-align: center;
-			}
-		</style>
+		<link rel='stylesheet' type='text/css' href='/css/bootstrap-theme.min.css'>
+		<link rel='stylesheet' type='text/css' href='/css/style.css'>
+
 		<script>
 		function showLogin()
 		{
@@ -72,7 +67,7 @@
 				</div>
 				<div class="collapse navbar-collapse">
 					<ul class="nav navbar-nav">
-						<li id="menuHome"><a href="/">Home</a></li>
+						<li id="menuHome"><a href="/index.php">Home</a></li>
 						<li id="menuFindOpportunity"><a  href="/search/opportunity/">Find Opportunity</a></li>
 						<li id="menuDashboard"><a href="/dashboard/">Dashboard</a></li>
 						<li id="menuAbout"><a href="/about/">About Us</a></li>
