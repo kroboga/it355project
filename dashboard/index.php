@@ -5,7 +5,9 @@
 <div class="container">
 	<!-- format of 1 row and 5 columns, we can change this as neccesarry, I felt it a good start -->
 	<div class="row">
-		<h1>User Dashboard</h1>
+		<div class="col-md-4">
+			<h1>User Dashboard</h1>
+		</div>
 	</div>
 	<div class="row">
 		
