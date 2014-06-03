@@ -12,14 +12,18 @@
 	<div class="row">
 		<!-- column 1 - far left -->
 		<div class="col-md-4">
-			<img src="http://placehold.it/150x150">
-			<div class="btn-group-vertical">			
-				<button type="button" class="btn btn-primary">Edit Profile</button>
-				<button type="button" class="btn btn-primary">Create Opportunity</button>
-				<button type="button" class="btn btn-primary">Inbox</button>
-			</div>
+			<ul>
+				<li><img src="http://placehold.it/150x150"></li>
+				<li>
+					<div class="btn-group-vertical">			
+						<button type="button" class="btn btn-primary">Edit Profile</button>
+						<button type="button" class="btn btn-primary">Create Opportunity</button>
+						<button type="button" class="btn btn-primary">Inbox</button>
+					</div>
+				</li>
+			</ul>
 		</div>
-
+		
 		<!-- column 2 - center -->
 		<div class="col-md-4">
 			<h1>This is a page title</h1>
