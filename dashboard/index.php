@@ -14,9 +14,9 @@
 		<div class="col-md-4">
 			<div class="btn-group-vertical">			
 				<img src="http://placehold.it/150x150">
-				<button type="button" class="btn btn-primary btn-block">Edit Profile</button>
-				<button type="button" class="btn btn-primary btn-block">Create Opportunity</button>
-				<button type="button" class="btn btn-primary btn-block">Inbox</button>
+				<button type="button" class="btn btn-primary">Edit Profile</button>
+				<button type="button" class="btn btn-primary">Create Opportunity</button>
+				<button type="button" class="btn btn-primary">Inbox</button>
 			</div>
 
 		</div>
