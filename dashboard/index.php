@@ -14,8 +14,8 @@
 		<div class="col-md-4">
 			<ul class="list-unstyled">
 				<li><img src="http://placehold.it/150x150"></li>
-				<li></li>
-				<li></li>
+				<li> </li>
+				<li> </li>
 				<li>
 					<div class="btn-group-vertical">			
 						<button type="button" class="btn btn-primary">Edit Profile</button>
