@@ -12,7 +12,7 @@
 	<div class="row">
 		<!-- column 1 - far left -->
 		<div class="col-md-4">
-			<ul>
+			<ul class="list-unstyled">
 				<li><img src="http://placehold.it/150x150"></li>
 				<li></li>
 				<li>
