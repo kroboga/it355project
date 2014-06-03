@@ -26,10 +26,14 @@
 
 		<!-- column 3 - right of center -->
 		<div class="col-md-4">
+			<h1>This is a page title</h1>
+			<p>This is some page content</p>
 		</div>
 
 		<!-- column 4 - far right of center -->
 		<div class="col-md-4">
+			<h1>This is a page title</h1>
+			<p>This is some page content</p>
 		</div>
 	
 	<!-- end of row -->
