@@ -14,8 +14,11 @@
 		<div class="col-md-4">
 			<img src="http://placehold.it/150x150">
 			<ul class="list-unstyled">
+				<li></li>
 				<li><button type="button" class="btn btn-primary">Edit Profile</button></li>
+				<li></li>
 				<li><button type="button" class="btn btn-primary">Create Opportunity</button></li>
+				<li></li>
 				<li><button type="button" class="btn btn-primary">Inbox</button></li>
 			</ul>
 		</div>
