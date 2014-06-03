@@ -13,14 +13,12 @@
 		<!-- column 1 - far left -->
 		<div class="col-md-4">
 			<img src="http://placehold.it/150x150">
-			<ul class="list-unstyled">
-				<li></li>
-				<li><button type="button" class="btn btn-primary">Edit Profile</button></li>
-				<li></li>
-				<li><button type="button" class="btn btn-primary">Create Opportunity</button></li>
-				<li></li>
-				<li><button type="button" class="btn btn-primary">Inbox</button></li>
-			</ul>
+			<div class="btn-group-vertical">			
+				<button type="button" class="btn btn-primary btn-block">Edit Profile</button>
+				<button type="button" class="btn btn-primary btn-block">Create Opportunity</button>
+				<button type="button" class="btn btn-primary btn-block">Inbox</button>
+			</div>
+
 		</div>
 
 		<!-- column 2 - center -->
