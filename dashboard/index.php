@@ -12,8 +12,9 @@
 	<div class="row">
 		<!-- column 1 - far left -->
 		<div class="col-md-4">
-			<img src="http://placehold.it/150x150">
+			
 			<ul>
+				<li><img src="http://placehold.it/150x150"></li>
 				<li><button type="button" class="btn btn-primary">Edit Profile</button></li>
 				<li><button type="button" class="btn btn-primary">Create Opportunity</button></li>
 				<li><button type="button" class="btn btn-primary">Inbox</button></li>
@@ -28,8 +29,6 @@
 
 		<!-- column 3 - right of center -->
 		<div class="col-md-4">
-			<h1>This is a page title</h1>
-			<p>This is some page content</p>
 		</div>
 	
 	<!-- end of row -->
