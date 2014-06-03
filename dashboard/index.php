@@ -13,11 +13,11 @@
 		<!-- column 1 - far left -->
 		<div class="col-md-4">
 			<img src="http://placehold.it/150x150">
-			<div>
-				<button type="button" class="btn btn-primary">Edit Profile</button>
-				<button type="button" class="btn btn-primary">Create Opportunity</button>
-				<button type="button" class="btn btn-primary">Inbox</button>
-			</div>
+			<ul>
+				<li><button type="button" class="btn btn-primary">Edit Profile</button></li>
+				<li><button type="button" class="btn btn-primary">Create Opportunity</button></li>
+				<li><button type="button" class="btn btn-primary">Inbox</button></li>
+			</ul>
 		</div>
 
 		<!-- column 2 - center -->
