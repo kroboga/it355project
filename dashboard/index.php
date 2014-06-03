@@ -10,7 +10,6 @@
 		</div>
 	</div>
 	<div class="row">
-		
 		<!-- column 1 - far left -->
 		<div class="col-md-4">
 			<img src="http://placehold.it/150x150">
