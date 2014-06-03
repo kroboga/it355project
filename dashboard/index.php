@@ -12,13 +12,12 @@
 	<div class="row">
 		<!-- column 1 - far left -->
 		<div class="col-md-4">
+			<img src="http://placehold.it/150x150">
 			<div class="btn-group-vertical">			
-				<img src="http://placehold.it/150x150">
 				<button type="button" class="btn btn-primary">Edit Profile</button>
 				<button type="button" class="btn btn-primary">Create Opportunity</button>
 				<button type="button" class="btn btn-primary">Inbox</button>
 			</div>
-
 		</div>
 
 		<!-- column 2 - center -->
