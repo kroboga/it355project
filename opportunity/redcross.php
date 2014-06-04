@@ -29,7 +29,7 @@
 		</div>
 	</div>
 	<div class="row">	
-		<div class="col-md-offset-4">
+		<div class="col-md-offset-2">
 			<dl class="dl-horizontal">
 					<dt>
 						Date & Time
