@@ -130,6 +130,9 @@
 				  <div class="btn-group">
 						<button class="btn btn-primary" type="submit" formaction="/opportunity/heartgift.php">Save</button>
 						<button class="btn btn-primary" type="submit" formaction="/messaging/allvolunteers.php">Delete</button>
+						<label class="checkbox">
+							<input type="checkbox" id="makepublic" value="public">Make Public
+						</label>
 					</div>
 				</div>
 			</div>
