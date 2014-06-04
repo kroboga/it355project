@@ -55,7 +55,7 @@
 				<dt>Location:</dt>
 					<dd><div id="map_canvas"></div></dd><br />
 				<dt>About:</dt>
-					<dd>he Red Cross responds to approximately 70,000 disasters 
+					<dd>The Red Cross responds to approximately 70,000 disasters 
 				in the United States every year, ranging from home fires 
 				that affect a single family to hurricanes that affect tens 
 				of thousands, to earthquakes that impact millions. In these events, 
