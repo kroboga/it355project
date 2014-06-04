@@ -22,7 +22,10 @@
 		<link rel="stylesheet" type="text/css" href="/css/bootstrap.css" />
 		<link rel="stylesheet" type="text/css" href="/css/daterangepicker-bs3.css" />
 
-		<script src="/js/holder.js"></script>
+		<script src="/js/holder.js"></script>		
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+		<script src="/js/bootstrap.min.js"></script>
+		
 		<script>
 		function showLogin()
 		{
