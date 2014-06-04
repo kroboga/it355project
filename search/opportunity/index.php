@@ -70,6 +70,7 @@ google.maps.event.addDomListener(window, 'load', initialize);
 	<div class="row">
 		<div class="col-md-offset-4">
 			<h1>Find Service Opportunities</h1>
+			<br />
 		</div>
 	</div>
 	<div class="row">
@@ -97,6 +98,17 @@ google.maps.event.addDomListener(window, 'load', initialize);
 		</div>
 		<div class="col-md-6">
 			<h3>Search Filters</h3>
+			<div class="checkbox">
+				<label>
+					<input type="checkbox"> Check me out
+				</label>
+				<label>
+					<input type="checkbox"> Check me out
+				</label>
+				<label>
+					<input type="checkbox"> Check me out
+				</label>
+			</div>
 		</div>
 	</div>
 	<div class="row">
