@@ -41,6 +41,7 @@
 			<img class="featurette-image img-responsive img-rounded" src="/img/about2.jpg" alt="Puppies!">
 		</div>
 	</div>
+	<hr style="margin: 40px 0;">
 	<div class="row">
 		<div class="col-md-12">
 			<hr style="margin: 40px 0;">
@@ -49,5 +50,6 @@
 			<p>Bacon ipsum dolor sit amet drumstick short ribs ground round turducken ham short loin pork loin. Flank fatback meatball hamburger chuck landjaeger sirloin shank capicola ham hock tail tongue beef jerky pork. Pork belly capicola pork chop, pig jerky strip steak corned beef ham hock fatback drumstick flank. Venison frankfurter jerky short ribs chuck biltong, ribeye meatloaf pork shankle kevin tongue bacon salami cow. Short loin cow pork belly, bresaola beef tri-tip tenderloin.</p>		
 		</div>
 	</div>
+	<hr style="margin: 40px 0;">
 </div>
 <?php include 'footer.php'; ?>
