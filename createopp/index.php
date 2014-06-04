@@ -5,11 +5,11 @@
 <div class="container">
 	<div class="row">
 		<form class="form-horizontal" role="form">
-			<div class="input-group">
-				<span class="input-group-addon">Opportunity name:</span>
+			<div class="form-group">
+				<label for="start" class="col-sm-2 control-label">Opportunity name:</label>
 				<input id="name"type="text" class="form-control" placeholder="Name">
 			</div>
-			<label for="datetime" class="col-sm-2 control-label">Start Date:</label>
+			<label for="datetime" class="col-sm-2 control-label">Date & Time</label>
 			<div id="datetime" class="form-group">
 				<div class="checkbox">
 					<label>
