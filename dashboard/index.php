@@ -7,7 +7,6 @@
 	<div class="row">
 		<div class="col-md-offset-4">
 			<h1>User Dashboard</h1>
-		<br />
 		</div>
 	</div>
 	<div class="row">
