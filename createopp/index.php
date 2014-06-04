@@ -4,6 +4,12 @@
 ?>
 <div class="container">
 	<div class="row">
+		<div class="col-md-offset-4">
+			<h1>Create A Service Opportunity</h1>
+			<br />
+		</div>
+	</div>
+	<div class="row">
 		<form class="form-horizontal" role="form">
 			<div class="form-group">
 				<label for="name" class="col-sm-2 control-label">Opportunity name:</label>
@@ -100,12 +106,17 @@
 				</div>
 			</div>
 			<div class="form-group">
-				<label for="looking" class="col-sm-2 control-label">What are you looking for:</label>
+				<label for="looking" class="col-sm-2 control-label">What you're looking for:</label>
 				<div class="col-sm-10">
 					<textarea id="looking" class="form-control" rows="3"></textarea>
 				</div>
 			</div>
-			
+			<div class="form-group">
+				<label for="name" class="col-sm-2 control-label">Opportunity name:</label>
+				<div class="col-sm-10">
+					<input id="name" type="text" class="form-control" placeholder="Name">
+				</div>
+			</div>
 		</form>
 	</div>
 </div>
