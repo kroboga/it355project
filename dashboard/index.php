@@ -14,8 +14,7 @@
 		<div class="col-md-3">
 			<ul class="list-unstyled">
 				<li><img src="http://placehold.it/150x150"></li>
-				<li> </li>
-				<li> </li>
+				<li><br /></li>
 				<li>
 					<form action="/" method="get">
 						<div class="btn-group-vertical">
@@ -45,7 +44,7 @@
 				of thousands, to earthquakes that impact millions. In these events, 
 				the Red Cross provides... <a href="/opportunity/redcross.php">Read More</a></p>
 				
-			<h1>Opportuntities You're in Charge of</h1>
+			<h1>Opportuntities You're in Charge of:</h1>
 			 <h2>Gift of the Heart Exchange</h2>
 				<p>Americans each discard an average of 68 pounds of clothes 
 				every year.  By donating your clothing to charity, you can 
