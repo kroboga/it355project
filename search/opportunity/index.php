@@ -109,7 +109,7 @@ google.maps.event.addDomListener(window, 'load', initialize);
 	</div>
 	<div class="row">
 		<div class="col-md-6">
-			<div id="map_canvas"></div>
+			<div id="map-canvas"></div>
 		</div>
 		<div class="col-md-6">
 			<h2>Results:</h2>
