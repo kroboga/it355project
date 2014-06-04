@@ -18,9 +18,9 @@
 				<li> </li>
 				<li>
 					<div class="btn-group-vertical">			
-						<button type="button" class="btn btn-primary"><a href="/editprofile/">Edit Profile</a></button>
-						<button type="button" class="btn btn-primary"><a href="/createopp/">Create Opportunity</a></button>
-						<button type="button" class="btn btn-primary"><a href="/messaging/">Inbox</a></button>
+						<button type="button" class="btn btn-primary" type="submit" formaction="/editprofile/">Edit Profile</button>
+						<button type="button" class="btn btn-primary" type="submit" formaction="/createopp/">Create Opportunity</button>
+						<button type="button" class="btn btn-primary" type="submit" formaction="/messaging/">Inbox</button>
 					</div>
 				</li>
 			</ul>
