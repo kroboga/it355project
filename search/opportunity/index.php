@@ -121,6 +121,20 @@ google.maps.event.addDomListener(window, 'load', initialize);
 				world, and all of them need people at various times during 
 				the year. The best way to become a volunteer is to find the 
 				Special Olympics office nearest you... <a href="/opportunity/special.php">Read More</a></dd>
+				
+				<dt>Red Cross</dt>
+				<dd>The Red Cross responds to approximately 70,000 disasters 
+				in the United States every year, ranging from home fires 
+				that affect a single family to hurricanes that affect tens 
+				of thousands, to earthquakes that impact millions. In these events, 
+				the Red Cross provides... <a href="/opportunity/redcross.php">Read More</a></dd>
+				
+			 <dt>Gift of the Heart Exchange</dt>
+				<dd>Americans each discard an average of 68 pounds of clothes 
+				every year.  By donating your clothing to charity, you can 
+				put some of that to good use. Here are some tips on clearing 
+				out your closet and helping others enjoy your unwanted clothing 
+				and textiles...<a href="/opportunity/heartgift.php">Read More</a></dd>
 			</dl>
 		</div>
 	</div>
