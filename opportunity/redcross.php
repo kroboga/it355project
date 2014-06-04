@@ -12,7 +12,21 @@
 	<div class="row">	
 		<div>
 			<dl class="dl-horizontal">
-					<dt>Date & Time</dt>
+					<dt>
+						Date & Time
+						<ul class="list-unstyled">
+							<br />
+							<br />
+							<li>
+								<form action="/" method="get">
+									<div class="btn-group-vertical">
+										<button class="btn btn-primary" type="submit" formaction="/">Share Opportunity</button>
+										<button class="btn btn-primary" type="submit" formaction="/">Join Opportunity</button>
+									</div>
+								</form>	
+							</li>
+						</ul>
+					</dt>
 					<dd><iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showTabs=0&amp;showCalendars=0&amp;height=300&amp;wkst=1&amp;bgcolor=%23ffffff&amp;src=en.usa%23holiday%40group.v.calendar.google.com&amp;color=%23AB8B00&amp;ctz=America%2FDenver" style=" border-width:0 " 
 						width="400" height="300" frameborder="0" scrolling="no"></iframe></dd>
 					<br />
