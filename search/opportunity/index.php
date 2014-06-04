@@ -32,7 +32,7 @@ function initialize() {
       var infowindow = new google.maps.InfoWindow({
         map: map,
         position: pos,
-        content: 'Location found using HTML5.'
+        content: 'Current Location'
       });
 
       map.setCenter(pos);
@@ -75,15 +75,25 @@ google.maps.event.addDomListener(window, 'load', initialize);
 	<div class="row">
 		<div class="col-md-6">
 			<form class="form-horizontal" role="form">
-			  <div class="input-group">
-				  <span class="input-group-addon">Location:</span>
-				  <input type="text" class="form-control" placeholder="Location">
-				  <span class="input-group-addon"><span class="glyphicon glyphicon-search"></span></span>
+				<div class="input-group">
+					<span class="input-group-addon">Location:</span>
+					<input id="location"type="text" class="form-control" placeholder="Location">
+					<span class="input-group-addon"><span class="glyphicon glyphicon-search"></span></span>
+				</div>
+				<div class="input-group">
+					<span class="input-group-addon">Distance</span>
+					<input id="distance" type="number" class="form-control" placeholder="Name">
+					<span class="input-group-addon">Miles</span>
+				</div>
+				<div class="input-group">
+					<span class="input-group-addon">Opportunity Name:</span>
+					<input id="opportunityname" type="text" class="form-control" placeholder="Name">
+					<span class="input-group-addon"><span class="glyphicon glyphicon-search"></span></span>
 				</div>
 			</form>
 		</div>
 		<div class="col-md-6">
-			<h2>Search Filters</h2>
+			<h3>Search Filters</h3>
 		</div>
 	</div>
 	<div class="row">
