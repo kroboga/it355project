@@ -24,3 +24,6 @@ html body div.container div.row div.col-md-4 ul{
 html body div.container div.row div.col-md-4 ul li{
 	margin-left: 50px;
 }
+.btn {
+	margin: 0 10px 5px 0;
+}
