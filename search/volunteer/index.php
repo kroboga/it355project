@@ -24,6 +24,10 @@
 					<a class="btn btn-default" type="button" href="/results/volunteer">Search</a>
 			</form>
 
+			<br/>
+			<br/>
+			<h2> Search Filters </h2>
+
 
 		</div>
 
