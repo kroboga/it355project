@@ -82,7 +82,7 @@ google.maps.event.addDomListener(window, 'load', initialize);
 				</div>
 				<div class="input-group">
 					<span class="input-group-addon">Distance</span>
-					<input id="distance" type="number" class="form-control" placeholder="Name">
+					<input id="distance" type="number" class="form-control" value="10">
 					<span class="input-group-addon">Miles</span>
 				</div>
 				<div class="input-group">
