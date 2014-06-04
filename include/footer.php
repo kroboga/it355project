@@ -14,7 +14,7 @@
 			}
 		?>
 
-<script type="text/javascript" src="/js/moment.js"></script>
-<script type="text/javascript" src="/js/daterangepicker.js"></script>
+	<script type="text/javascript" src="/js/moment.js"></script>
+	<script type="text/javascript" src="/js/daterangepicker.js"></script>
 	</body>
 </html>
