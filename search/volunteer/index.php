@@ -26,8 +26,30 @@
 
 			<br/>
 			<br/>
-			<h2> Search Filters </h2>
+			<h4> Search Filters </h4>
+			<!-- Skills filter -->
+			<div class="panel-group" id="accordion">
+  				<div class="panel panel-default">
+    				<div class="panel-heading">
+      					<h4 class="panel-title">
+        					<a data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
+          						Skill(s)
+						    </a>
+						  </h4>
+						</div>
 
+    <div id="collapseOne" class="panel-collapse collapse in">
+      <div class="panel-body">
+		<div class="checkbox">
+		    <label>
+		      <input type="checkbox"> Nunchuck skills
+		    </label>
+		 </div>
+    </div>
+    </div>
+  </div>
+  <div class="panel panel-default">
+</div>
 
 		</div>
 

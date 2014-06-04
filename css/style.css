@@ -16,3 +16,11 @@ body {
 	background-color: #3498db;
 	color: white;
 }
+
+html body div.container div.row div.col-md-4 ul{
+	text-align: left;
+}
+
+html body div.container div.row div.col-md-4 ul li{
+	margin-left: 50px;
+}
