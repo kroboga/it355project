@@ -27,31 +27,82 @@
 			<br/>
 			<br/>
 			<h4> Search Filters </h4>
-			<!-- Skills filter -->
 			<div class="panel-group" id="accordion">
-  				<div class="panel panel-default">
+
+				<!-- Skills filter -->
+  				<div class="panel panel-default">		
     				<div class="panel-heading">
       					<h4 class="panel-title">
-        					<a data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
-          						Skill(s)
+        					<a class = "collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
+          						Skills
 						    </a>
-						  </h4>
+						</h4>
+					</div>
+
+					<!-- Skill list -->
+    				<div id="collapseOne" class="panel-collapse collapse">
+						<div class="panel-body">
+						
+							<div class="checkbox">
+							    <label>
+							      <input type="checkbox"> Nunchuck skills
+							    </label>
+						    </div>
+
+							<div class="checkbox">
+							    <label>
+							      <input type="checkbox"> Nunchuck skills
+							    </label>
+						    </div>
+
+
+							<div class="checkbox">
+							    <label>
+							      <input type="checkbox"> Nunchuck skills
+							    </label>
+						    </div>
+
 						</div>
+   					</div>
+  				</div>
 
-    <div id="collapseOne" class="panel-collapse collapse in">
-      <div class="panel-body">
-		<div class="checkbox">
-		    <label>
-		      <input type="checkbox"> Nunchuck skills
-		    </label>
-		 </div>
-    </div>
-    </div>
-  </div>
-  <div class="panel panel-default">
-</div>
+  				<!-- distance filter -->
+  				<div class="panel panel-default">		
+    				<div class="panel-heading">
+      					<h4 class="panel-title">
+        					<a class = "collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
+          						Distance
+						    </a>
+      					</h4>
+					</div>
 
-		</div>
+    				<div id="collapseTwo" class="panel-collapse collapse">
+    					<div class="panel-body">
+
+    					</div>
+					</div>
+				</div>
+
+  				<!-- Availability filter -->
+  				<div class="panel panel-default">		
+    				<div class="panel-heading">
+      					<h4 class="panel-title">
+        					<a class = "collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
+          						Availability
+						    </a>
+      					</h4>
+					</div>
+
+    				<div id="collapseThree" class="panel-collapse collapse">
+    					<div class="panel-body">
+    					</div>
+					</div>
+				</div>
+
+
+
+			</div> <!-- End filters -->
+
 
 		<!-- column 3 - right of center -->
 		<div class="col-md-4">
