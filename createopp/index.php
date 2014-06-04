@@ -6,12 +6,12 @@
 	<div class="row">
 		<form class="form-horizontal" role="form">
 			<div class="form-group">
-				<label for="start" class="col-sm-2 control-label">Opportunity name:</label>
+				<label for="name" class="col-sm-2 control-label">Opportunity name:</label>
 				<div class="col-sm-10">
-					<input id="name"type="text" class="form-control" placeholder="Name">
+					<input id="name" type="text" class="form-control" placeholder="Name">
 				</div>
 			</div>
-			<label for="datetime" class="col-sm-2 control-label">Date & Time</label>
+			<label for="datetime" class="col-sm-2 control-label">Date & Time: </label>
 			<div id="datetime" class="form-group">
 				<div class="checkbox">
 					<label>
@@ -23,9 +23,9 @@
 				<label for="end" class="col-sm-2 control-label">End Date:</label> 
 				<div class="col-sm-10"><input class="form-control" type="date" id="end"></div>
 			</div>
-			<div class="input-group">
-				<span class="input-group-addon">State:</span>
-				<select class="form-control" name="state">
+			<div class="form-group">
+				<label for="state" class="col-sm-2 control-label">State: </label>
+				<select class="form-control" id="state" name="state">
 					<option value="AL">Alabama</option>
 					<option value="AK">Alaska</option>
 					<option value="AZ">Arizona</option>
