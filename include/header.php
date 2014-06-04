@@ -23,11 +23,12 @@
    		<link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css" rel="stylesheet">
    		<link rel="stylesheet" type="text/css" media="all" href="/css/daterangepicker-bs3.css" />
 	
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 		<script>
-		function showLogin()
-		{
-			$('#loginModal').modal();
-		}
+			function showLogin()
+			{
+				$('#loginModal').modal();
+			}
 		</script>
 	</head>
 	<body>
