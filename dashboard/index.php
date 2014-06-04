@@ -17,10 +17,12 @@
 				<li> </li>
 				<li> </li>
 				<li>
-					<div class="btn-group-vertical">			
-						<button type="button" class="btn btn-primary" type="submit" formaction="http://goparakeet.com">Edit Profile</button>
-						<button type="button" class="btn btn-primary" type="submit" formaction="/createopp/">Create Opportunity</button>
-						<button type="button" class="btn btn-primary" type="submit" formaction="/messaging/">Inbox</button>
+					<div class="btn-group-vertical">
+						<form>
+							<button type="button" class="btn btn-primary" type="submit" formaction="/editprofile/">Edit Profile</button>
+							<button type="button" class="btn btn-primary" type="submit" formaction="/createopp/">Create Opportunity</button>
+							<button type="button" class="btn btn-primary" type="submit" formaction="/messaging/">Inbox</button>
+						</form>			
 					</div>
 				</li>
 			</ul>
