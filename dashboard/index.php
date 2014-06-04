@@ -12,7 +12,7 @@
 	</div>
 	<div class="row">
 		<!-- column 1 - far left -->
-		<div class="col-md-4">
+		<div class="col-md-3">
 			<ul class="list-unstyled">
 				<li><img src="http://placehold.it/150x150"></li>
 				<li> </li>
@@ -28,7 +28,7 @@
 		</div>
 		
 		<!-- column 2 - center -->
-		<div class="col-md-8">
+		<div class="col-md-9">
 			
 			<h1>Opportunities You're Going To:</h1>
 			<h2>Special Olympics</h2>
