@@ -125,6 +125,14 @@
 					</label>
 				</div>
 			</div>
+			<div class="form-group">
+				<div class="col-sm-offset-2 col-sm-10">
+				  <div class="btn-group">
+						<button class="btn btn-primary" type="submit" formaction="/opportunity/heartgift.php">Save</button>
+						<button class="btn btn-primary" type="submit" formaction="/messaging/allvolunteers.php">Delete</button>
+					</div>
+				</div>
+			</div>
 		</form>
 	</div>
 </div>
