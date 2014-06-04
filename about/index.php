@@ -31,8 +31,9 @@
 	</div>
 	<hr style="margin: 40px 0;">
 	<div class="row">
-		<div class="col-md-12">
+		<div class="col-md-8">
 			<h2>The Beginning Strikes Back</h2>
+			<p>V-Hub.com also believes in using pure organic puppy blood to power its servers. We find that the additional cost is worth it to know that we are using a renewable source of energy. Plus, it lets us put a puppy on this page.</p>
 			<p>Bacon ipsum dolor sit amet drumstick short ribs ground round turducken ham short loin pork loin. Flank fatback meatball hamburger chuck landjaeger sirloin shank capicola ham hock tail tongue beef jerky pork. Pork belly capicola pork chop, pig jerky strip steak corned beef ham hock fatback drumstick flank. Venison frankfurter jerky short ribs chuck biltong, ribeye meatloaf pork shankle kevin tongue bacon salami cow. Short loin cow pork belly, bresaola beef tri-tip tenderloin.</p>
 			<p>Bacon ipsum dolor sit amet drumstick short ribs ground round turducken ham short loin pork loin. Flank fatback meatball hamburger chuck landjaeger sirloin shank capicola ham hock tail tongue beef jerky pork. Pork belly capicola pork chop, pig jerky strip steak corned beef ham hock fatback drumstick flank. Venison frankfurter jerky short ribs chuck biltong, ribeye meatloaf pork shankle kevin tongue bacon salami cow. Short loin cow pork belly, bresaola beef tri-tip tenderloin.</p>
 		</div>
