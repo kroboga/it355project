@@ -20,6 +20,8 @@
 		<link rel='stylesheet' type='text/css' href='/css/bootstrap-theme.min.css'>
 		<link rel='stylesheet' type='text/css' href='/css/style.css'>
 		<link rel="stylesheet" type="text/css" href="/css/bootstrap.css" />
+   		<link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css" rel="stylesheet">
+   		<link rel="stylesheet" type="text/css" media="all" href="/css/daterangepicker-bs3.css" />
 	
 		<script>
 		function showLogin()
