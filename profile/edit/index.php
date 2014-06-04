@@ -10,7 +10,7 @@
 	<div class="row">
 		<div class="col-md-4">
 			<h3>Photo</h2>
-			<img class="img-responsive img-rounded" src="/img/profile.jpg" alt="Frank Frankenbotham">
+			<img class="img-responsive img-rounded" src="/img/profile.jpg" alt="Frank Frankenbotham" style="margin:auto; padding:1em;">
 			<p><a class="btn btn-lg btn-primary" href="#" role="button">Upload Picture</a></p>
 		</div>
 		<div class="col-md-4">
