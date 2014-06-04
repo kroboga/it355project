@@ -3,7 +3,7 @@
 	include 'header.php'; 
 ?>
     <style>
-      #map_canvas {
+      #map-canvas {
         width: 500px;
         height: 400px;
       }
