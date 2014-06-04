@@ -18,9 +18,9 @@
 				<li> </li>
 				<li>
 					<div class="btn-group-vertical">			
-						<button type="button" class="btn btn-primary">Edit Profile</button>
-						<button type="button" class="btn btn-primary">Create Opportunity</button>
-						<button type="button" class="btn btn-primary">Inbox</button>
+						<a href="/editprofile/"><button type="button" class="btn btn-primary">Edit Profile</button></a>
+						<a href="/createopp/"><button type="button" class="btn btn-primary">Create Opportunity</button></a>
+						<a href="/messaging/"><button type="button" class="btn btn-primary">Inbox</button></a>
 					</div>
 				</li>
 			</ul>
@@ -34,14 +34,14 @@
 				<p>There are hundreds of Special Olympics offices around the
 				world, and all of them need people at various times during 
 				the year. The best way to become a volunteer is to find the 
-				Special Olympics office nearest you... <a href="/search/opportunity/special.php">Read More</a></p>
+				Special Olympics office nearest you... <a href="/opportunity/special.php">Read More</a></p>
 			 
 			 <h2>Red Cross</h2>
 				<p>The Red Cross responds to approximately 70,000 disasters 
 				in the United States every year, ranging from home fires 
 				that affect a single family to hurricanes that affect tens 
 				of thousands, to earthquakes that impact millions. In these events, 
-				the Red Cross provides... <a href="/search/opportunity/redcross.php">Read More</a></p>
+				the Red Cross provides... <a href="/opportunity/redcross.php">Read More</a></p>
 				
 			<h1>Opportuntities You're in Charge of</h1>
 			 <h2>Gift of the Heart Exchange</h2>
@@ -49,7 +49,10 @@
 				every year.  By donating your clothing to charity, you can 
 				put some of that to good use. Here are some tips on clearing 
 				out your closet and helping others enjoy your unwanted clothing 
-				and textiles... <a href="/search/opportunity/heartgift.php">Read More</a></p>
+				and textiles... <a href="/opportunity/heartgift.php">Edit Opportunity</a>
+				<a href="/messaging/allvolunteers.php">Message</a>
+				<a href="/opportunity/heartgift.php">Read More</a>
+				</p>
 		</div>
 
 	<!-- end of row -->
