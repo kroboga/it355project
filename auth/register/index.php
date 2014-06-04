@@ -5,7 +5,7 @@
 <div class="modal fade" id="registerModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
 	<div class="modal-dialog">
 		<div class="modal-content">
-			<form role="form" action="/dashboard/">
+			<form role="form" action="/profile/edit/">
 				<div class="modal-header">
 					<h4 class="modal-title" id="myModalLabel">Register</h4>
 				</div>
@@ -28,7 +28,7 @@
 					</div>
 				</div>
 				<div class="modal-footer">
-					<button type="submit" class="btn btn-primary">Login</button>
+					<button type="submit" class="btn btn-primary">Register</button>
 				</div>
 			</form>
 		</div>
