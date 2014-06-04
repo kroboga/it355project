@@ -115,6 +115,13 @@ google.maps.event.addDomListener(window, 'load', initialize);
 		</div>
 		<div class="col-md-6">
 			<h2>Results:</h2>
+			<dl class="dl-horizontal">
+				<dt>Special Olympics</dt>
+				<dd>There are hundreds of Special Olympics offices around the
+				world, and all of them need people at various times during 
+				the year. The best way to become a volunteer is to find the 
+				Special Olympics office nearest you... <a href="/opportunity/special.php">Read More</a></dd>
+			</dl>
 		</div>
 	</div>
 </div>
