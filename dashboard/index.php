@@ -17,13 +17,13 @@
 				<li> </li>
 				<li> </li>
 				<li>
-					<div class="btn-group-vertical">
-						<form>
+					<form action="/" method="get">
+						<div class="btn-group-vertical">
 							<button type="button" class="btn btn-primary" type="submit" formaction="/editprofile/">Edit Profile</button>
 							<button type="button" class="btn btn-primary" type="submit" formaction="/createopp/">Create Opportunity</button>
 							<button type="button" class="btn btn-primary" type="submit" formaction="/messaging/">Inbox</button>
-						</form>			
-					</div>
+						</div>
+					</form>	
 				</li>
 			</ul>
 		</div>
