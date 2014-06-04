@@ -97,15 +97,15 @@ google.maps.event.addDomListener(window, 'load', initialize);
 			<br />
 		</div>
 		<div class="col-md-6">
-			<h3>Search Filters</h3>
+			<h4>Search Filters</h4>
 			<label class="checkbox">
-				<input type="checkbox" id="inlineCheckbox1" value="option1"> 1
+				<input type="checkbox" id="Computer" value="option1"> Computer
 			</label>
 			<label class="checkbox">
-				<input type="checkbox" id="inlineCheckbox2" value="option2"> 2
+				<input type="checkbox" id="EMT" value="option2"> EMT
 			</label>
 			<label class="checkbox">
-				<input type="checkbox" id="inlineCheckbox3" value="option3"> 3
+				<input type="checkbox" id="Blood Donation" value="option3"> Blood Donation
 			</label>
 		</div>
 	</div>
