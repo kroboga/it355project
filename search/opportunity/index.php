@@ -76,8 +76,9 @@ google.maps.event.addDomListener(window, 'load', initialize);
 		<div class="col-md-6">
 			<form class="form-horizontal" role="form">
 			  <div class="input-group">
+				  <span class="input-group-addon">Location:</span>
+				  <input type="text" class="form-control" placeholder="Location">
 				  <span class="input-group-addon"><span class="glyphicon glyphicon-search"></span></span>
-				  <input type="text" class="form-control" placeholder="Search">
 				</div>
 			</form>
 		</div>
