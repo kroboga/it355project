@@ -27,9 +27,29 @@
 		</div>
 		
 		<!-- column 2 - center -->
-		<div class="col-md-4">
-			<h1>This is a page title</h1>
-			<p>This is some page content</p>
+		<div class="col-md-8">
+			
+			<h1>Opportunities You're Going To:</h1>
+			<h2>Special Olympics</h2>
+				<p>There are hundreds of Special Olympics offices around the
+				world, and all of them need people at various times during 
+				the year. The best way to become a volunteer is to find the 
+				Special Olympics office nearest you... <a href="/search/opportunity/special.php">Read More</a></p>
+			 
+			 <h2>Red Cross</h2>
+				<p>The Red Cross responds to approximately 70,000 disasters 
+				in the United States every year, ranging from home fires 
+				that affect a single family to hurricanes that affect tens 
+				of thousands, to earthquakes that impact millions. In these events, 
+				the Red Cross provides... <a href="/search/opportunity/redcross.php">Read More</a></p>
+				
+			<h1>Opportuntities You're in Charge of</h1>
+			 <h2>Gift of the Heart Exchange</h2>
+				<p>Americans each discard an average of 68 pounds of clothes 
+				every year.  By donating your clothing to charity, you can 
+				put some of that to good use. Here are some tips on clearing 
+				out your closet and helping others enjoy your unwanted clothing 
+				and textiles... <a href="/search/opportunity/heartgift.php">Read More</a></p>
 		</div>
 
 		<!-- column 3 - right of center -->
