@@ -15,14 +15,8 @@
 						<input type="checkbox"> Repeating Opportunity
 					</label>
 				</div>
-				<div class="input-group">
-					<span class="input-group-addon">Start Date:</span>
-					<input class="form-control" type="date" id="start">
-				</div>
-				<div class="input-group">
-					<span class="input-group-addon">End Date:</span>
-					<input class="form-control" type="date" id="end">
-				</div>
+				Start Date:	<input class="form-control" type="date" id="start">
+				End Date: <input class="form-control" type="date" id="end">
 			</div>
 			<div class="input-group">
 				<span class="input-group-addon">State:</span>
