@@ -11,7 +11,6 @@
 	<div class="row" style="min-height:500px">
 		<div class="col-md-4">
 			<img class="img-responsive img-rounded" src="/img/profile.jpg" alt="Frank Frankenbotham" style="margin:auto; padding:1em;">
-			<p><a class="btn btn-lg btn-primary" href="#" role="button">Upload Picture</a></p>
 		</div>
 		<div class="col-md-4" style="text-align:left">
 			<h3>Profile</h3>
