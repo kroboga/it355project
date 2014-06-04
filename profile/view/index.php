@@ -1,31 +1,35 @@
 <?php 
-	$page = "template";
 	include "header.php"; 
 ?>
 <div class="container">
-	
-	<!-- format of 1 row and 5 columns, we can change this as neccesarry, I felt it a good start -->
 	<div class="row">
-		
-		<!-- column 1 - far left -->
+		<div class="col-md-12">
+			<h1>Frank Frankenbotham</h1>
+		</div>	
+	</div>
+	<hr style="margin: 40px 0;">
+	<div class="row" style="min-height:500px">
 		<div class="col-md-4">
+			<img class="img-responsive img-rounded" src="/img/profile.jpg" alt="Frank Frankenbotham" style="margin:auto; padding:1em;">
+			<p><a class="btn btn-lg btn-primary" href="#" role="button">Upload Picture</a></p>
 		</div>
-
-		<!-- column 2 - center -->
-		<div class="col-md-4">
-			<h1>This is a page title</h1>
-			<p>This is some page content</p>
+		<div class="col-md-4" style="text-align:left">
+			<h3>Profile</h3>
+			<p>Location: Provo, UT</p>
+			<p>Age: 20-30</p>
+			<p>Volunteer/Organizer</p>
+			<p>Member since: Jan 1, 1970</p>
 		</div>
-
-		<!-- column 3 - right of center -->
-		<div class="col-md-4">
+		<div class="col-md-4" style="text-align:left">
+			<h3>Skills</h3>
+			<p>nunChuck skills</p>
+			<p>Manual Labor Experience</p>
+			<p>Web Development</p>
+			<p>Theater Sound Tech</p>
+			<p>Microsoft Office</p>
+			<p>Hospice Experience</p>
+			<p>Eagle Scout</p>
 		</div>
-
-		<!-- column 4 - far right of center -->
-		<div class="col-md-4">
-		</div>
-	
-	<!-- end of row -->
 	</div>
 </div>
 <?php include 'footer.php'; ?>

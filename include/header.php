@@ -22,9 +22,6 @@
 		<link rel="stylesheet" type="text/css" href="/css/bootstrap.css" />
 		<link rel="stylesheet" type="text/css" href="/css/daterangepicker-bs3.css" />
 
-		
-
-		<script src="/js/holder.js"></script>
 		<script>
 		function showLogin()
 		{
