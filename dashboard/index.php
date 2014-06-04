@@ -8,8 +8,8 @@
 		<div class="col-md-offset-4">
 			<h1>User Dashboard</h1>
 		</div>
+			<div><br /></div>
 	</div>
-	<div><br /></div>
 	<div class="row">
 		<!-- column 1 - far left -->
 		<div class="col-md-4">
