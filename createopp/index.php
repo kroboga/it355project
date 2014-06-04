@@ -7,7 +7,9 @@
 		<form class="form-horizontal" role="form">
 			<div class="form-group">
 				<label for="start" class="col-sm-2 control-label">Opportunity name:</label>
-				<input id="name"type="text" class="form-control" placeholder="Name">
+				<div class="col-sm-10">
+					<input id="name"type="text" class="form-control" placeholder="Name">
+				</div>
 			</div>
 			<label for="datetime" class="col-sm-2 control-label">Date & Time</label>
 			<div id="datetime" class="form-group">
