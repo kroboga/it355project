@@ -13,7 +13,7 @@
 		<!-- column 1 - far left -->
 		<div class="col-md-3">
 			<ul class="list-unstyled">
-				<li><img class="img-rounded" src="/js/holder.js/150x150"></li>
+				<li><img class="img-rounded" src="http://lorempixel.com/150/150/people/9"></li>
 				<li><br /></li>
 				<li>
 					<form action="/" method="get">

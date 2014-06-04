@@ -23,8 +23,16 @@
     </script>
 
 <div class="container">
-	<div class="starter-template">
+	<div class="row">
+		<div class="col-md-offset-4">
+			<h1>Find Service Opportunities</h1>
+		</div>
+	</div>
+	<div class="col-md-6">
 		<div id="map_canvas"></div>
+	</div>
+	<div class="col-md-6">
+		<h2>Results:</h2>
 	</div>
 </div>
 <?php include 'footer.php'; ?>
