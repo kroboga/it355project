@@ -10,11 +10,14 @@
 	<div class="row">
 		<div class="col-md-4">
 			<h3>Photo</h2>
-			<img class="featurette-image img-responsive img-rounded" src="/img/profile.jpg" alt="Frank Frankenbotham">
+			<img class="img-responsive img-rounded" src="/img/profile.jpg" alt="Frank Frankenbotham">
 			<p><a class="btn btn-lg btn-primary" href="#" role="button">Upload Picture</a></p>
 		</div>
 		<div class="col-md-4">
 			<h3>Profile</h2>
+			<p>Location: Provo, UT</p>
+			<p>Age: 20-30</p>
+			<p>Volunteer/Organizer</p>
 		</div>
 		<div class="col-md-4">
 			<h3>Skills</h2>
