@@ -112,9 +112,17 @@
 				</div>
 			</div>
 			<div class="form-group">
-				<label for="name" class="col-sm-2 control-label">Opportunity name:</label>
-				<div class="col-sm-10">
-					<input id="name" type="text" class="form-control" placeholder="Name">
+				<label for="checks" class="col-sm-2 control-label">Required Certifications:</label>
+				<div id = "checks" class="col-sm-10">
+					<label class="checkbox">
+						<input type="checkbox" id="Computer" value="computer"> Computer
+					</label>
+					<label class="checkbox">
+						<input type="checkbox" id="EMT" value="emt"> EMT
+					</label>
+					<label class="checkbox">
+						<input type="checkbox" id="Blood Donation" value="blood"> Blood Donation
+					</label>
 				</div>
 			</div>
 		</form>
