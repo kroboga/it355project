@@ -9,13 +9,20 @@
 				<span class="input-group-addon">Opportunity name:</span>
 				<input id="name"type="text" class="form-control" placeholder="Name">
 			</div>
-			<div class="input-group">
-				<span class="input-group-addon">Start Date:</span>
-				<input class="form-control" type="date" id="start">
-			</div>
-			<div class="input-group">
-				<span class="input-group-addon">End Date:</span>
-				<input class="form-control" type="date" id="end">
+			<div class="form-group">
+				<div class="checkbox">
+					<label>
+						<input type="checkbox"> Repeating Opportunity
+					</label>
+				</div>
+				<div class="input-group">
+					<span class="input-group-addon">Start Date:</span>
+					<input class="form-control" type="date" id="start">
+				</div>
+				<div class="input-group">
+					<span class="input-group-addon">End Date:</span>
+					<input class="form-control" type="date" id="end">
+				</div>
 			</div>
 			<div class="input-group">
 				<span class="input-group-addon">State:</span>
