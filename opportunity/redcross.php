@@ -53,7 +53,7 @@
 					<dd>33/100</dd>
 					<br />
 				<dt>Location:</dt>
-					<dd><div id="map_canvas"></div></dd>
+					<dd><div id="map_canvas"></div></dd><br />
 				<dt>About:</dt>
 					<dd>he Red Cross responds to approximately 70,000 disasters 
 				in the United States every year, ranging from home fires 
@@ -61,7 +61,7 @@
 				of thousands, to earthquakes that impact millions. In these events, 
 				the Red Cross provides. Brooklyn tattooed meh XOXO Tonx swag. Kogi Etsy put a bird on it brunch pop-up, direct trade mustache flexitarian sartorial. Sartorial kale chips fanny pack fap literally shabby chic, cardigan messenger bag keffiyeh food truck put a bird on it pug ennui Brooklyn. Cosby sweater art party stumptown High Life twee Marfa Truffaut Helvetica. Carles DIY farm-to-table typewriter whatever craft beer, fashion axe sartorial next level kale chips dreamcatcher four loko. Beard brunch master cleanse, single-origin coffee chambray chillwave slow-carb YOLO Shoreditch cray 90's freegan actually whatever Etsy. Tousled PBR&B tote bag +1 four loko kale chips.</dd>
 				<dt>What we need:</dt>
-					<dd>Pug craft beer blog, umami lo-fi cornhole gluten-free ennui bicycle rights messenger bag. Flannel fingerstache cardigan, keytar selvage Pinterest Schlitz authentic Thundercats organic actually. Letterpress bespoke Vice XOXO, meggings meh Bushwick authentic American Apparel kogi seitan. Street art forage Schlitz, put a bird on it Brooklyn Bushwick wolf messenger bag PBR&B food truck hella cred. IPhone Wes Anderson before they sold out normcore. Kogi readymade actually sriracha kale chips, literally Marfa farm-to-table Portland church-key 8-bit. Kickstarter leggings chambray, flexitarian sartorial tousled photo booth Marfa.</dd>
+					<dd>Pug craft beer blog, umami lo-fi cornhole gluten-free ennui bicycle rights messenger bag. Flannel fingerstache cardigan, keytar selvage Pinterest Schlitz authentic Thundercats organic actually. Letterpress bespoke Vice XOXO, meggings meh Bushwick authentic American Apparel kogi seitan. Street art forage Schlitz, put a bird on it Brooklyn Bushwick wolf messenger bag PBR&B food truck hella cred. IPhone Wes Anderson before they sold out normcore. Kogi readymade actually sriracha kale chips, literally Marfa farm-to-table Portland church-key 8-bit. Kickstarter leggings chambray, flexitarian sartorial tousled photo booth Marfa.</dd><br />
 			</dl>			
 		</div>
 	</div>
