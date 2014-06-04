@@ -98,17 +98,15 @@ google.maps.event.addDomListener(window, 'load', initialize);
 		</div>
 		<div class="col-md-6">
 			<h3>Search Filters</h3>
-			<div class="checkbox">
-				<label>
-					<input type="checkbox"> Check me out
-				</label>
-				<label>
-					<input type="checkbox"> Check me out
-				</label>
-				<label>
-					<input type="checkbox"> Check me out
-				</label>
-			</div>
+			<label class="checkbox">
+				<input type="checkbox" id="inlineCheckbox1" value="option1"> 1
+			</label>
+			<label class="checkbox">
+				<input type="checkbox" id="inlineCheckbox2" value="option2"> 2
+			</label>
+			<label class="checkbox">
+				<input type="checkbox" id="inlineCheckbox3" value="option3"> 3
+			</label>
 		</div>
 	</div>
 	<div class="row">
