@@ -3,10 +3,9 @@
 	include 'header.php'; 
 ?>
     <style>
-      html, body, #map-canvas {
-        height: 100%;
-        margin: 0px;
-        padding: 0px
+      #map_canvas {
+        width: 500px;
+        height: 400px;
       }
     </style>
     <script src="https://maps.googleapis.com/maps/api/js?v=3.exp"></script>
