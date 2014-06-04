@@ -3,12 +3,13 @@
 	include 'header.php'; 
 ?>
     <style>
-      #map_canvas {
-        width: 500px;
-        height: 400px;
+      html, body, #map-canvas {
+        height: 100%;
+        margin: 0px;
+        padding: 0px
       }
     </style>
-    <script src="https://maps.googleapis.com/maps/api/js?sensor=true"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp"></script>
 <script>
 // Note: This example requires that you consent to location sharing when
 // prompted by your browser. If you see a blank space instead of the map, this
