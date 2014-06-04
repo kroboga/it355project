@@ -20,13 +20,7 @@ body {
 html body div.container div.row div.col-md-4 div#accordion.panel-group{
 	text-align: left;
 }
-<<<<<<< HEAD
-=======
 
-html body div.container div.row div.col-md-4 ul li{
-	margin-left: 50px;
-}
 .btn {
 	margin: 0 10px 5px 0;
 }
->>>>>>> 12c59762780f460741ec91efc6541bb51408a98c
