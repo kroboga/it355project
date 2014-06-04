@@ -93,6 +93,19 @@
 					<input id="zip" type="text" class="form-control" placeholder="Zip Code">
 				</div>
 			</div>
+			<div class="form-group">
+				<label for="desc" class="col-sm-2 control-label">Description:</label>
+				<div class="col-sm-10">
+					<textarea id="desc"class="form-control" rows="3"></textarea>
+				</div>
+			</div>
+			<div class="form-group">
+				<label for="looking" class="col-sm-2 control-label">What are you looking for:</label>
+				<div class="col-sm-10">
+					<textarea id="looking" class="form-control" rows="3"></textarea>
+				</div>
+			</div>
+			
 		</form>
 	</div>
 </div>
