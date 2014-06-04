@@ -51,9 +51,15 @@
 				every year.  By donating your clothing to charity, you can 
 				put some of that to good use. Here are some tips on clearing 
 				out your closet and helping others enjoy your unwanted clothing 
-				and textiles... <a href="/opportunity/heartgift.php">Edit Opportunity</a>
-				<a href="/messaging/allvolunteers.php">Message</a>
-				<a href="/opportunity/heartgift.php">Read More</a>
+				and textiles...</p>
+				<p> 
+				<form action="/" method="get">
+					<div class="btn-group">
+						<button class="btn btn-primary" type="submit" formaction="/opportunity/heartgift.php">Edit Opportunity</button>
+						<button class="btn btn-primary" type="submit" formaction="/messaging/allvolunteers.php">Message Volunteers</button>
+						<button class="btn btn-primary" type="submit" formaction="/search/volunteer/">Find Volunteers for this Opportunity</button>
+					</div>
+				</form>
 				</p>
 		</div>
 
