@@ -13,5 +13,8 @@
 				echo "<script>$('#menu".$page."').addClass('active')</script>";
 			}
 		?>
+
+<script type="text/javascript" src="/js/moment.js"></script>
+<script type="text/javascript" src="/js/daterangepicker.js"></script>
 	</body>
 </html>

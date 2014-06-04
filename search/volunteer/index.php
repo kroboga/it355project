@@ -45,20 +45,31 @@
 						
 							<div class="checkbox">
 							    <label>
-							      <input type="checkbox"> Nunchuck skills
+							      <input type="checkbox"> Computer Skills
 							    </label>
 						    </div>
 
 							<div class="checkbox">
 							    <label>
-							      <input type="checkbox"> Nunchuck skills
+							      <input type="checkbox"> Manual Labor Experience
 							    </label>
 						    </div>
 
+							<div class="checkbox">
+							    <label>
+							      <input type="checkbox"> Theater Sound Tech
+							    </label>
+						    </div>
 
 							<div class="checkbox">
 							    <label>
-							      <input type="checkbox"> Nunchuck skills
+							      <input type="checkbox"> EMT
+							    </label>
+						    </div>
+
+							<div class="checkbox">
+							    <label>
+							      <input type="checkbox"> Hospice
 							    </label>
 						    </div>
 
@@ -76,9 +87,38 @@
       					</h4>
 					</div>
 
+					<!-- distance list -->
     				<div id="collapseTwo" class="panel-collapse collapse">
     					<div class="panel-body">
+    						<div class="checkbox">
+							    <label>
+							      <input type="checkbox"> 5 miles
+							    </label>
+						    </div>
 
+							<div class="checkbox">
+							    <label>
+							      <input type="checkbox"> 10 miles
+							    </label>
+						    </div>
+
+							<div class="checkbox">
+							    <label>
+							      <input type="checkbox"> 15 miles
+							    </label>
+						    </div>
+
+							<div class="checkbox">
+							    <label>
+							      <input type="checkbox"> 25 miles
+							    </label>
+						    </div>
+
+							<div class="checkbox">
+							    <label>
+							      <input type="checkbox"> 50 miles
+							    </label>
+						    </div>
     					</div>
 					</div>
 				</div>
