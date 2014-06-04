@@ -2,7 +2,7 @@
 	$page = "template";
 	include "header.php"; 
 ?>
-<div class="modal fade" id="loginModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal fade" id="registerModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
 	<div class="modal-dialog">
 		<div class="modal-content">
 			<form role="form" action="/dashboard/">
@@ -34,4 +34,5 @@
 		</div>
 	</div>
 </div>
+<script>$('#registerModal').modal();</script>
 <?php include 'footer.php'; ?>
