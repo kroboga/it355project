@@ -7,20 +7,21 @@
 			<h1>Frank Frankenbotham</h1>
 		</div>	
 	</div>
-	<div class="row">
+	<hr style="margin: 40px 0;">
+	<div class="row" style="min-height:500px">
 		<div class="col-md-4">
-			<h3>Photo</h2>
 			<img class="img-responsive img-rounded" src="/img/profile.jpg" alt="Frank Frankenbotham" style="margin:auto; padding:1em;">
 			<p><a class="btn btn-lg btn-primary" href="#" role="button">Upload Picture</a></p>
 		</div>
-		<div class="col-md-4">
-			<h3>Profile</h2>
+		<div class="col-md-4" style="text-align:left">
+			<h3>Profile</h3>
 			<p>Location: Provo, UT</p>
 			<p>Age: 20-30</p>
 			<p>Volunteer/Organizer</p>
+			<p>Member since: Jan 1, 1970</p>
 		</div>
-		<div class="col-md-4">
-			<h3>Skills</h2>
+		<div class="col-md-4" style="text-align:left">
+			<h3>Skills</h3>
 			<p>nunChuck skills</p>
 			<p>Manual Labor Experience</p>
 			<p>Web Development</p>
