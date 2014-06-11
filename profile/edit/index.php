@@ -22,14 +22,55 @@
 		</div>
 		<div class="col-md-4" style="text-align:left">
 			<h3>Skills</h3>
-			<p>nunChuck skills</p>
-			<p>Manual Labor Experience</p>
-			<p>Web Development</p>
-			<p>Theater Sound Tech</p>
-			<p>Microsoft Office</p>
-			<p>Hospice Experience</p>
-			<p>Eagle Scout</p>
-		</div>
+			<div class="checkbox">
+							    <label>
+							      <input type="checkbox"> Computer Skills
+							    </label>
+						    </div>
+
+							<div class="checkbox">
+							    <label>
+							      <input type="checkbox"> Manual Labor Experience
+							    </label>
+						    </div>
+
+							<div class="checkbox">
+							    <label>
+							      <input type="checkbox"> Theater Sound Tech
+							    </label>
+						    </div>
+
+							<div class="checkbox">
+							    <label>
+							      <input type="checkbox"> EMT
+							    </label>
+						    </div>
+
+							<div class="checkbox">
+							    <label>
+							      <input type="checkbox"> Hospice
+							    </label>
+						    </div>
+
+						    <div class="checkbox">
+							    <label>
+							      <input type="checkbox"> Web Development
+							    </label>
+						    </div>
+
+						    <div class="checkbox">
+							    <label>
+							      <input type="checkbox"> Microsoft Office
+							    </label>
+						    </div>
+
+						    <div class="checkbox">
+							    <label>
+							      <input type="checkbox"> Scouting
+							    </label>
+						    </div>
+						    
+						   		</div>
 	</div>
 </div>
 <?php include 'footer.php'; ?>

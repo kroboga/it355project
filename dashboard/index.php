@@ -18,7 +18,7 @@
 				<li>
 					<form action="/" method="get">
 						<div class="btn-group-vertical">
-							<button class="btn btn-primary" type="submit" formaction="/editprofile/">Edit Profile</button>
+							<button class="btn btn-primary" type="submit" formaction="/profile/edit">Edit Profile</button>
 							<button class="btn btn-primary" type="submit" formaction="/createopp/">Create Opportunity</button>
 							<button class="btn btn-primary" type="submit" formaction="/messaging/">Inbox</button>
 						</div>
