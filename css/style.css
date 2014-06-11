@@ -37,7 +37,7 @@ html body div.container div.row div.col-md-4 div#accordion.panel-group{
 	border-radius: 10px;
 }
 
-.signedUpOpp{
+.signedUpOpp, .vResult{
 	border: solid;
 	border-radius: 20px;
 	margin-bottom: 10px;
