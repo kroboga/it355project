@@ -34,12 +34,31 @@ html body div.container div.row div.col-md-4 div#accordion.panel-group{
 
 #signedUp{
 	border: solid;
+	border-radius: 10px;
 }
 
 .signedUpOpp{
 	border: solid;
+	border-radius: 20px;
+	margin-bottom: 10px;
+	margin-left: 5px;
+	margin-right: 5px;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-bottom: 10px; 
+	background: none repeat scroll 0 0 #E0FFFF;
 }
 
 #createdOpps{
+	margin-top: 50px;
 	border: solid;
+	border-radius: 10px;
+}
+
+#signedUp h1{
+	padding-left: 7px;
+}
+
+#createdOpps h1{
+	padding-left: 7px;
 }
