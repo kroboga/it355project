@@ -30,36 +30,67 @@
 		<!-- column 2 - center -->
 		<div class="col-md-9">
 			
-			<h1>Opportunities You're Going To:</h1>
-			<h2>Special Olympics</h2>
-				<p>There are hundreds of Special Olympics offices around the
-				world, and all of them need people at various times during 
-				the year. The best way to become a volunteer is to find the 
-				Special Olympics office nearest you... <a href="/opportunity/special.php">Read More</a></p>
-			 
-			 <h2>Red Cross</h2>
-				<p>The Red Cross responds to approximately 70,000 disasters 
-				in the United States every year, ranging from home fires 
-				that affect a single family to hurricanes that affect tens 
-				of thousands, to earthquakes that impact millions. In these events, 
-				the Red Cross provides... <a href="/opportunity/redcross.php">Read More</a></p>
+			<div id="signedUp">
 				
-			<h1>Opportuntities You're in Charge of:</h1>
-			 <h2>Gift of the Heart Exchange</h2>
-				<p>Americans each discard an average of 68 pounds of clothes 
-				every year.  By donating your clothing to charity, you can 
-				put some of that to good use. Here are some tips on clearing 
-				out your closet and helping others enjoy your unwanted clothing 
-				and textiles...<a href="/opportunity/heartgift.php">Read More</a></p>
-				<p> 
-				<form action="/" method="get">
+				<h1>Opportunities You've signed up for:</h1>
+
+				<div class="signedUpOpp">
+					
+					<h2><a href="/opportunity/special.php">Special Olympics </a></h2>
+						<p>There are hundreds of Special Olympics offices around the
+						world, and all of them need people at various times during 
+						the year. The best way to become a volunteer is to find the 
+						Special Olympics office nearest you... <a href="/opportunity/special.php">Read More</a></p>
+						<div class="btn-group">
+								<button class="btn btn-primary" type="submit" formaction="#">Withdraw from opportunity</button>
+								<button class="btn btn-primary" type="submit" formaction="#">Message Coordinator</button>
+						</div>
+				
+				</div>
+					
+				<div class="signedUpOpp">
+				
+					 <h2><a href="/opportunity/redcross.php">Red Cross</a></h2>
+						<p>The Red Cross responds to approximately 70,000 disasters 
+						in the United States every year, ranging from home fires 
+						that affect a single family to hurricanes that affect tens 
+						of thousands, to earthquakes that impact millions. In these events, 
+						the Red Cross provides... <a href="/opportunity/redcross.php">Read More</a></p>
+	
 					<div class="btn-group">
-						<button class="btn btn-primary" type="submit" formaction="/opportunity/heartgift.php">Edit Opportunity</button>
-						<button class="btn btn-primary" type="submit" formaction="/messaging/allvolunteers.php">Message Volunteers</button>
-						<button class="btn btn-primary" type="submit" formaction="/search/volunteer/">Find Volunteers for this Opportunity</button>
+						<button class="btn btn-primary" type="submit" formaction="#">Withdraw from opportunity</button>
+						<button class="btn btn-primary" type="submit" formaction="#">Message Coordinator</button>
 					</div>
-				</form>
-				</p>
+				
+				</div>	 
+					
+			</div>
+			
+
+			<div id="createdOpps">
+		
+				<h1>Opportuntities You're in Charge of:</h1>
+				
+				<div class="signedUpOpp">
+					<h2><a href="/opportunity/heartgift.php">Gift of the Heart Exchange</a></h2>
+						<p>Americans each discard an average of 68 pounds of clothes 
+						every year.  By donating your clothing to charity, you can 
+						put some of that to good use. Here are some tips on clearing 
+						out your closet and helping others enjoy your unwanted clothing 
+						and textiles...<a href="/opportunity/heartgift.php">Read More</a></p>
+						<p> 
+						<form action="/" method="get">
+							<div class="btn-group">
+								<button class="btn btn-primary" type="submit" formaction="/opportunity/heartgift.php">Edit Opportunity</button>
+								<button class="btn btn-primary" type="submit" formaction="/messaging/allvolunteers.php">Message Volunteers</button>
+								<button class="btn btn-primary" type="submit" formaction="/search/volunteer/">Find Volunteers for this Opportunity</button>
+							</div>
+						</form>
+						</p>
+				</div>
+			
+			</div>
+		
 		</div>
 
 	<!-- end of row -->

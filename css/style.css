@@ -31,3 +31,15 @@ html body div.container div.row div.col-md-4 div#accordion.panel-group{
   clear:both;
   padding-top:20px;
 } 
+
+#signedUp{
+	border: solid;
+}
+
+.signedUpOpp{
+	border: solid;
+}
+
+#createdOpps{
+	border: solid;
+}

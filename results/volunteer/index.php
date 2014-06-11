@@ -13,7 +13,7 @@
 		<!-- column 2 - center -->
 		<div class="col-md-4">
 			<h1>Volunteer search results</h1>
-			<p>This is some page content</p>
+			<p></p>
 		</div>
 
 		<!-- column 3 - right of center -->
