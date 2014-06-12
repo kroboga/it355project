@@ -1,5 +1,5 @@
 <?php 
-	$page = "template";
+	$page = "Dashboard";
 	include "header.php"; 
 ?>
 <div class="container">
