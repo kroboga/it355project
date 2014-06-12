@@ -21,7 +21,7 @@
 			<div id="datetime" class="form-group">
 				<div class="checkbox">
 					<label>
-						<input type="checkbox"> Repeating Opportunity
+						<input type="checkbox"> Reccurring Event
 					</label>
 				</div>
 				<label for="start" class="col-sm-2 control-label">Start Date:</label>
