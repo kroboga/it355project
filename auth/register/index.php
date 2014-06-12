@@ -28,6 +28,10 @@
 						<input type="password" class="form-control" id="confirm" placeholder="Confirm">
 					</div>
 				</div>
+
+				<button type="submit" class="btn btn-facebook"><i class="fa fa-facebook"></i> | Connect with Facebook</button>
+				<button type="submit" class="btn btn-twitter"><i class="fa fa-twitter"></i> | Connect with Twitter</button>
+
 				<div class="modal-footer">
 					<button type="submit" class="btn btn-primary">Register</button>
 				</div>

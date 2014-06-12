@@ -20,6 +20,7 @@
 		<link rel='stylesheet' type='text/css' href='/css/bootstrap-theme.min.css'>
 		<link rel='stylesheet' type='text/css' href='/css/style.css'>
 		<link rel="stylesheet" type="text/css" href="/css/bootstrap.css" />
+		<link rel="stylesheet" href="css/social-buttons.css">
    		<link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css" rel="stylesheet">
    		<link rel="stylesheet" type="text/css" media="all" href="/css/daterangepicker-bs3.css" />
    		
@@ -53,6 +54,9 @@
 								<input type="password" class="form-control" id="password" placeholder="Password">
 							</div>
 						</div>
+						<button type="submit" class="btn btn-facebook"><i class="fa fa-facebook"></i> | Connect with Facebook</button>
+				<button type="submit" class="btn btn-twitter"><i class="fa fa-twitter"></i> | Connect with Twitter</button>
+
 						<div class="modal-footer">
 							<p><a href="/auth/register/">First time? Sign up!</a></p>
 							<button type="submit" class="btn btn-primary">Login</button>
