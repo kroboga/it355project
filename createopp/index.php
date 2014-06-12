@@ -19,8 +19,10 @@
 			</div>
 			<label for="datetime" class="col-sm-2 control-label">Date &amp; Time: </label>
 			<div id="datetime" class="form-group col-sm-10">
-				<div class="checkbox">
-					<label>Reccurring Event</label><input type="checkbox" id="event" value="event">
+				<div class="checkbox col-sm-10">
+					<label>
+						<input type="checkbox" id="event" value="event"> Reccurring Event
+					</label>
 				</div>
 				<label for="start" class="col-sm-2 control-label">Start Date:</label>
 				<div class="col-sm-10"><input class="form-control" type="date" id="start"></div>
