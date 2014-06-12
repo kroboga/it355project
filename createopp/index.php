@@ -20,9 +20,7 @@
 			<label for="datetime" class="col-sm-2 control-label">Date &amp; Time: </label>
 			<div id="datetime" class="form-group col-sm-10">
 				<div class="checkbox">
-					<label>
-						<input type="checkbox" id="event" value="event"> Reccurring Event
-					</label>
+					<label>Reccurring Event</label><input type="checkbox" id="event" value="event">
 				</div>
 				<label for="start" class="col-sm-2 control-label">Start Date:</label>
 				<div class="col-sm-10"><input class="form-control" type="date" id="start"></div>
@@ -113,21 +111,21 @@
 			</div>
 			<div class="form-group">
 				<label for="checks" class="col-sm-2 control-label">Required Skills:</label>
-				<div id = "checks" class="col-sm-10">
+				<div id = "computer" class="col-sm-10">
 					<label class="checkbox">
-						<input type="checkbox" id="Computer" value="computer"> Computer
+						<input type="checkbox" id="computer" value="computer"> Computer
 					</label>
 					<label class="checkbox">
-						<input type="checkbox" id="EMT" value="emt"> EMT
+						<input type="checkbox" id="emt" value="emt"> EMT
 					</label>
 					<label class="checkbox">
-						<input type="checkbox" id="BloodDonation" value="blood"> Blood Donation
+						<input type="checkbox" id="blood" value="blood"> Blood Donation
 					</label>
 				</div>
 			</div>
 			<div class="form-group">
-				<label for="sec" class="col-sm-2 control-label">Security Settings:</label>
-				<div id = "sec" class="col-sm-10">
+				<label for="makepublic" class="col-sm-2 control-label">Security Settings:</label>
+				<div id="sec" class="col-sm-10">
 					<label class="checkbox">
 						<input type="checkbox" id="makepublic" value="public">Make Public
 					</label>
