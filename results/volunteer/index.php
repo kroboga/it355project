@@ -15,13 +15,22 @@
 			<h1>Volunteer search results</h1>
 			
 			<div class="vResult">
+				<div class="checkbox">
+				 <label>
+				      <input type="checkbox"> 
+				    </label>
+				</div>
 					
 				<h2> <a href="/profile/view"><img class="img-rounded" src="/img/dashboard.jpg">Jane Doe</a></h2>
 					<li>
 						Skills: Hospice, Computer Skills
 					</li>
+					<button class="btn btn-primary" type="submit" formaction="/message">Send Message</button>
 					
 			</div>
+
+			<button class="btn btn-primary" type="submit" formaction="/message">Send Message To Selected Volunteers</button>
+
 
 		</div>
 
