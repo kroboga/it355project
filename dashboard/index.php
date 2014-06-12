@@ -43,10 +43,10 @@
 						the year. The best way to become a volunteer is to find the 
 						Special Olympics office nearest you... <a href="/opportunity/special.php">Read More</a></p>
 						<div class="btn-group">
-								<button class="btn btn-primary" type="submit" formaction="#">Withdraw from opportunity</button>
-								<button class="btn btn-primary" type="submit" formaction="#">Message Coordinator</button>
+							<button class="btn btn-primary" type="submit" formaction="#">Withdraw from opportunity</button>
+							<button class="btn btn-primary" type="submit" formaction="#">Message Coordinator</button>
+							<button class="btn btn-primary" type="submit" formaction="/opportunity/heartgift.php">Share Opportunity</button>
 						</div>
-				
 				</div>
 					
 				<div class="signedUpOpp">
@@ -61,6 +61,7 @@
 					<div class="btn-group">
 						<button class="btn btn-primary" type="submit" formaction="#">Withdraw from opportunity</button>
 						<button class="btn btn-primary" type="submit" formaction="#">Message Coordinator</button>
+						<button class="btn btn-primary" type="submit" formaction="/opportunity/heartgift.php">Share Opportunity</button>
 					</div>
 				
 				</div>	 
@@ -88,6 +89,8 @@
 								<button class="btn btn-primary" type="submit" formaction="/search/volunteer/">Find Volunteers for this Opportunity</button>
 							</div>
 						</form>
+						<br/>
+						50/100 Signed Up
 						</p>
 				</div>
 			
