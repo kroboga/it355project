@@ -101,7 +101,11 @@
 				    </label>
 			    </div>
 						    
+   			</br>
+   			</br>
+			<button class="btn btn-primary" type="submit" onclick="alert('Changes have been saved')" formaction="#">Save Changes</button>
    		</div>
+
 	</div>
 </div>
 <?php include 'footer.php'; ?>
