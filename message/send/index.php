@@ -16,8 +16,8 @@
 					<input type="email" class="form-control" id="to" placeholder="Frank Frankenbotham &lt;frank@frank.com&gt;">
 				</div>
 				<div class="form-group">
-					<label for="to">Subject:</label>
-					<input type="email" class="form-control" id="subject" placeholder="Frank Frankenbotham &lt;frank@frank.com&gt;">
+					<label for="subject">Subject:</label>
+					<input type="email" class="form-control" id="subject" placeholder="Message Subject">
 				</div>
 				<div class="form-group">
 					<label for="to">Message:</label>
@@ -27,13 +27,8 @@
 		</div>
 	</div>
 	<div class="row">
-		<div class="col-md-1">
+		<div class="col-md-2">
 			<a class="btn btn-lg btn-primary " href="/dashboard/" role="button">Send</a>
-		</div>
-		<div class="col-md-10">
-			&nbsp;
-		</div>
-		<div class="col-md-1">
 			<a class="btn btn-lg btn-primary " href="/dashboard/" role="button">Cancel</a>
 		</div>
 	</div>
