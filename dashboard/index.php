@@ -1,6 +1,6 @@
 <?php 
-	include 'checkLogin.php';
 	$page = "Dashboard";
+	$checkLogin = true;
 	include 'header.php'; 
 ?>
 <div class="container">
