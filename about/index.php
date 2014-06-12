@@ -23,7 +23,7 @@
 	<hr style="margin: 40px 0;">
 	<div class="row">
 		<div class="col-md-12">
-			<h2>The Beginning</h2>
+			<h2>A New <strike>Hope</strike> Beginning</h2>
 			<p>V-Hub.com was founded in early 2019 as a collaboration between Google and Apple Inc. There were also some students in there somewhere too, but I forget where. We decided people needed a place to 'meat' and volunteer. And on the subject of meat, here is some more bacon ipsum:</p>
 			<p>Bacon ipsum dolor sit amet drumstick short ribs ground round turducken ham short loin pork loin. Flank fatback meatball hamburger chuck landjaeger sirloin shank capicola ham hock tail tongue beef jerky pork. Pork belly capicola pork chop, pig jerky strip steak corned beef ham hock fatback drumstick flank. Venison frankfurter jerky short ribs chuck biltong, ribeye meatloaf pork shankle kevin tongue bacon salami cow. Short loin cow pork belly, bresaola beef tri-tip tenderloin.</p>
 			<p>Bacon ipsum dolor sit amet drumstick short ribs ground round turducken ham short loin pork loin. Flank fatback meatball hamburger chuck landjaeger sirloin shank capicola ham hock tail tongue beef jerky pork. Pork belly capicola pork chop, pig jerky strip steak corned beef ham hock fatback drumstick flank. Venison frankfurter jerky short ribs chuck biltong, ribeye meatloaf pork shankle kevin tongue bacon salami cow. Short loin cow pork belly, bresaola beef tri-tip tenderloin.</p>	
