@@ -6,7 +6,7 @@
 	<!-- format of 1 row and 5 columns, we can change this as neccesarry, I felt it a good start -->
 	<div class="row">
 		<div class="col-md-offset-4">
-			<h1>User Dashboard</h1>
+			<h1>My Opportunities & Settings</h1>
 		</div>
 	</div>
 	<div class="row">
