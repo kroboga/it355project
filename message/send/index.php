@@ -27,13 +27,15 @@
 		</div>
 	</div>
 	<div class="row">
-		<div class="col-md-2">
+		<div class="col-md-10">
+			&nbsp;
+		</div>
+		<div class="col-md-1">
 			<a class="btn btn-lg btn-primary " href="/dashboard/" role="button">Send</a>
 		</div>
-		<div class="col-md-2">
-			<a class="btn btn-lg btn-primary " href="/dashboard/" role="button">Cancel</a>
+		<div class="col-md-1">
+			<a class="btn btn-lg btn-default " href="/dashboard/" role="button">Cancel</a>
 		</div>
-
 	</div>
 </div>
 <?php include 'footer.php'; ?>
