@@ -13,7 +13,10 @@
 			{
 				echo "<script>$('#menu".$page."').addClass('active')</script>";
 			}
+			if (!is_null($checkLogin) && ($checkLogin == true) && ($loggedin == false))
+			{
+				echo "<script>showLogin();</script>";
+			}
 		?>
-
 	</body>
 </html>
