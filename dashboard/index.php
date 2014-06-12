@@ -21,7 +21,7 @@
 						<div class="btn-group-vertical">
 							<button class="btn btn-primary" type="submit" formaction="/profile/edit">Edit Profile</button>
 							<button class="btn btn-primary" type="submit" formaction="/createopp/">Create Opportunity</button>
-							<button class="btn btn-primary" type="submit" formaction="/messaging/">Inbox</button>
+							<button class="btn btn-primary" type="submit" formaction="/message/">Inbox</button>
 						</div>
 					</form>	
 				</li>
@@ -44,7 +44,7 @@
 						Special Olympics office nearest you... <a href="/opportunity/special.php">Read More</a></p>
 						<div class="btn-group">
 							<button class="btn btn-primary" type="submit" onclick="alert('You have withdrawn from this opportunity')" formaction="#">Withdraw from opportunity</button>
-							<button class="btn btn-primary" type="submit" formaction="/message/send/">Message Coordinator</button>
+							<a class="btn btn-primary" href="/message/send/" role="button">Message Coordinator</a>
 							<button class="btn btn-primary" type="submit" onclick="alert('social media share dialog box')" formaction="#">Share Opportunity</button>
 						</div>
 				</div>
@@ -83,7 +83,7 @@
 						<p> 
 						<form action="/" method="get">
 							<div class="btn-group">
-								<button class="btn btn-primary" type="submit" formaction="/createopp">Edit Opportunity</button>
+								<button class="btn btn-primary" type="submit" formaction="/createopp/">Edit Opportunity</button>
 								<button class="btn btn-primary" type="submit" onclick="alert('You have deleted this opportunity')" formaction="#">Delete Opportunity</button>
 								<button class="btn btn-primary" type="submit" formaction="/message/send/">Message All Volunteers</button>
 								<button class="btn btn-primary" type="submit" formaction="/results/volunteer/">View Volunteers</button>
