@@ -76,7 +76,7 @@
 					<ul class="nav navbar-nav">
 						<li id="menuHome"><a href="/">Home</a></li>
 						<li id="menuFindOpportunity"><a  href="/search/opportunity/">Find Opportunity</a></li>
-						<li id="menuDashboard"><a href="/dashboard/">My Opportunities/Settings</a></li>
+						<li id="menuDashboard"><a href="/dashboard/">My Profile</a></li>
 						<li id="menuAbout"><a href="/about/">About Us</a></li>
 						<?php
 							if ($loggedin)
