@@ -126,10 +126,15 @@
 				</div>
 			</div>
 			<div class="form-group">
+				<label for="sec" class="col-sm-2 control-label">Security Settings:</label>
+				<div id = "sec" class="col-sm-10">
+					<label class="checkbox">
+						<input type="checkbox" id="makepublic" value="public">Make Public
+					</label>
+				</div>
+			</div>
+			<div class="form-group">
 				<div class="col-sm-offset-2 col-sm-10">
-				<label class="checkbox">
-					<input type="checkbox" id="makepublic" value="public">Make Public
-				</label>
 				  <div class="btn-group">
 						<button class="btn btn-primary" type="submit" formaction="/opportunity/heartgift.php">Save</button>
 						<button class="btn btn-primary" type="submit" formaction="/messaging/allvolunteers.php">Delete</button>
