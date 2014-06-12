@@ -45,11 +45,11 @@
 						</div>
 						<div class="modal-body">					
 							<div class="form-group">
-								<label for="exampleInputEmail1">Email address</label>
+								<label for="email">Email address</label>
 								<input type="email" class="form-control" id="email" placeholder="E-mail">
 							</div>
 							<div class="form-group">
-								<label for="exampleInputPassword1">Password</label>
+								<label for="password">Password</label>
 								<input type="password" class="form-control" id="password" placeholder="Password">
 							</div>
 						</div>
