@@ -20,13 +20,13 @@
 					<tr>
 						<td>May 26, 2013 1:23 am</td>
 						<td>Frank Frankenbotham</td>
-						<td><a href="/message/view/">Volunteering into Darkness</a></td>
+						<td><a href="/message/view/">Volunteer into Darkness</a></td>
 						<td><a href="#"><span class="glyphicon glyphicon-trash"></span></a></td>
 					</tr>
 					<tr>
 						<td>Nov 22, 1996 1:23 am</td>
 						<td>Frank Frankenbotham</td>
-						<td><a href="/message/view/">Volunteering: First Contact</a></td>
+						<td><a href="/message/view/">Volunteer: First Contact</a></td>
 						<td><a href="#"><span class="glyphicon glyphicon-trash"></span></a></td>
 					</tr>
 					<tr>
@@ -69,11 +69,11 @@
 		</div>
 	</div>
 	<div class="row">
-		<div class="col-md-11">
+		<div class="col-md-10">
 			&nbsp;
 		</div>
-		<div class="col-md-1">
-			<a class="btn btn-lg btn-default " href="/message/send/" role="button">New Message</a>
+		<div class="col-md-2">
+			<a class="btn btn-lg btn-primary " href="/message/send/" role="button">New Message</a>
 		</div>
 	</div>
 
