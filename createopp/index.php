@@ -112,7 +112,7 @@
 				</div>
 			</div>
 			<div class="form-group">
-				<label for="checks" class="col-sm-2 control-label">Required Certifications:</label>
+				<label for="checks" class="col-sm-2 control-label">Required Skills:</label>
 				<div id = "checks" class="col-sm-10">
 					<label class="checkbox">
 						<input type="checkbox" id="Computer" value="computer"> Computer
