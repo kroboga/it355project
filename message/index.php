@@ -68,6 +68,14 @@
 			</table>
 		</div>
 	</div>
+	<div class="row">
+		<div class="col-md-11">
+			&nbsp;
+		</div>
+		<div class="col-md-1">
+			<a class="btn btn-lg btn-default " href="/message/send/" role="button">New Message</a>
+		</div>
+	</div>
 
 </div>
 <?php include 'footer.php'; ?>
