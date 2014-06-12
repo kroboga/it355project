@@ -1,5 +1,5 @@
 <?php
 	session_start();
 	$_SESSION['loggedin'] = true;
-	header("Location: /");
+	header("Location: ".$_SERVER['HTTP_REFERER']);
 ?>
