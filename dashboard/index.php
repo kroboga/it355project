@@ -82,7 +82,8 @@
 						<form action="/" method="get">
 							<div class="btn-group">
 								<button class="btn btn-primary" type="submit" formaction="/opportunity/heartgift.php">Edit Opportunity</button>
-								<button class="btn btn-primary" type="submit" formaction="/messaging/allvolunteers.php">Message Volunteers</button>
+								<button class="btn btn-primary" type="submit" formaction="/messaging/allvolunteers.php">Message All Volunteers</button>
+								<button class="btn btn-primary" type="submit" formaction="/messaging/allvolunteers.php">View Volunteers</button>
 								<button class="btn btn-primary" type="submit" formaction="/search/volunteer/">Find Volunteers for this Opportunity</button>
 							</div>
 						</form>
