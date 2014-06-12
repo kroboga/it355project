@@ -97,7 +97,7 @@ google.maps.event.addDomListener(window, 'load', initialize);
 			<br />
 		</div>
 		<div class="col-md-6">
-			<h4>Search Filters</h4>
+			<h4>Desired Skills:</h4>
 			<label class="checkbox">
 				<input type="checkbox" id="Computer" value="computer"> Computer
 			</label>
