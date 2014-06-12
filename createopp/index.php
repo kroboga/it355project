@@ -36,7 +36,7 @@
 				</div>
 				<label for="city" class="col-sm-2 control-label">City:</label>
 				<div class="col-sm-10">
-					<input id="state" type="text" class="form-control" placeholder="city">
+					<input id="city" type="text" class="form-control" placeholder="city">
 				</div>
 				<label for="state" class="col-sm-2 control-label">State: </label>
 				<div class="col-sm-10">
@@ -102,7 +102,7 @@
 			<div class="form-group">
 				<label for="desc" class="col-sm-2 control-label">Description:</label>
 				<div class="col-sm-10">
-					<textarea id="desc"class="form-control" rows="3"></textarea>
+					<textarea id="desc" class="form-control" rows="3"></textarea>
 				</div>
 			</div>
 			<div class="form-group">
@@ -121,7 +121,7 @@
 						<input type="checkbox" id="EMT" value="emt"> EMT
 					</label>
 					<label class="checkbox">
-						<input type="checkbox" id="Blood Donation" value="blood"> Blood Donation
+						<input type="checkbox" id="BloodDonation" value="blood"> Blood Donation
 					</label>
 				</div>
 			</div>

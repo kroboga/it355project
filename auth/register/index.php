@@ -1,6 +1,7 @@
 <?php 
 	$page = "template";
 	include "header.php"; 
+	$_SESSION['loggedin'] = true;
 ?>
 <div class="modal fade" id="registerModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
 	<div class="modal-dialog">
