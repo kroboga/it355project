@@ -21,7 +21,7 @@
 				</div>
 				<div class="form-group">
 					<label for="to">Message:</label>
-					<textarea class="form-control" rows="3"></textarea>
+					<textarea class="form-control" rows="5"></textarea>
 				</div>
 			</form>
 		</div>
@@ -29,8 +29,11 @@
 	<div class="row">
 		<div class="col-md-2">
 			<a class="btn btn-lg btn-primary " href="/dashboard/" role="button">Send</a>
+		</div>
+		<div class="col-md-2">
 			<a class="btn btn-lg btn-primary " href="/dashboard/" role="button">Cancel</a>
 		</div>
+
 	</div>
 </div>
 <?php include 'footer.php'; ?>
