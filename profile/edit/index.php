@@ -103,7 +103,7 @@
 						    
    			</br>
    			</br>
-			<button class="btn btn-primary" type="submit" onclick="alert('Changes have been saved')" formaction="#">Save Changes</button>
+			<button class="btn btn-primary" type="submit" onclick="alert('Changes have been saved')" formaction="/dashboard/">Save Changes</button>
    		</div>
 
 	</div>
