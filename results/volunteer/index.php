@@ -23,7 +23,7 @@
 					
 				<h2> <a href="/profile/view"><img class="img-rounded" src="/img/dashboard.jpg">Jane Doe</a></h2>
 					<li>
-						Skills: Hospice, Computer Skills
+						Insert Summary Here
 					</li>
 					<button class="btn btn-primary" type="submit" formaction="/message">Send Message</button>
 					
