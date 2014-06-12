@@ -84,6 +84,7 @@
 						<form action="/" method="get">
 							<div class="btn-group">
 								<button class="btn btn-primary" type="submit" formaction="/createopp">Edit Opportunity</button>
+								<button class="btn btn-primary" type="submit" onclick="alert('You have deleted this opportunity')" formaction="#">Delete Opportunity</button>
 								<button class="btn btn-primary" type="submit" formaction="/message/send/">Message All Volunteers</button>
 								<button class="btn btn-primary" type="submit" formaction="/results/volunteer/">View Volunteers</button>
 								<button class="btn btn-primary" type="submit" formaction="/search/volunteer/">Find Volunteers for this Opportunity</button>
