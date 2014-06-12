@@ -17,7 +17,7 @@
 					<input id="name" type="text" class="form-control" placeholder="Name">
 				</div>
 			</div>
-			<label for="datetime" class="col-sm-2 control-label">Date & Time: </label>
+			<label for="datetime" class="col-sm-2 control-label">Date &amp; Time: </label>
 			<div id="datetime" class="form-group">
 				<div class="checkbox">
 					<label>
