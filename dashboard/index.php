@@ -1,4 +1,5 @@
 <?php 
+	include 'checkLogin.php';
 	$page = "Dashboard";
 	include 'header.php'; 
 ?>
