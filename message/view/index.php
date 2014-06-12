@@ -5,22 +5,18 @@
 <div class="container">
 	<div class="row">
 		<div class="col-md-12">
-			<h1>Send a Message</h1>
+			<h2><b>Subject:</b> The Wrath of the Volunteer</h2>
 		</div>
 	</div>
 	<div class="row">
 		<div class="col-md-6">
-			<b>From:</b> Frank Frankenbotham
+			<h4><b>From:</b> Frank Frankenbotham</h4>
 		</div>
-		<div class="col-md-6 pull-right">
-			<b>Date:</b> Jun 4, 1982 1:23 am
-		</div>
-	</div>
-	<div class="row">
-		<div class="col-md-12">
-			<b>Subject:</b> The Wrath of the Volunteer
+		<div class="col-md-6" style="text-align:right;">
+			<h4><b>Date:</b> Jun 4, 1982 1:23 am</h4>
 		</div>
 	</div>
+	
 	<div class="row">
 		<div class="col-md-12">
 			<p>Bacon ipsum dolor sit amet salami tongue bacon sirloin. Boudin hamburger filet mignon pork belly jowl strip steak jerky tongue brisket fatback spare ribs sirloin rump. Bacon jowl strip steak, short ribs doner biltong sirloin brisket. Ball tip pork loin t-bone tri-tip beef sausage landjaeger ham hock porchetta short ribs jowl ribeye tail meatloaf.</p>
