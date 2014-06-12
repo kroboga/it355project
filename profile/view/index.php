@@ -4,7 +4,7 @@
 <div class="container">
 	<div class="row">
 		<div class="col-md-12">
-			<h1>Frank Frankenbotham</h1>
+			<h1>Jane Doe</h1>
 		</div>	
 	</div>
 	<hr style="margin: 40px 0;">

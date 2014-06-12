@@ -44,7 +44,7 @@
 						Special Olympics office nearest you... <a href="/opportunity/special.php">Read More</a></p>
 						<div class="btn-group">
 							<button class="btn btn-primary" type="submit" onclick="alert('You have withdrawn from this opportunity')" formaction="#">Withdraw from opportunity</button>
-							<button class="btn btn-primary" type="submit" formaction='/message/send/'>Message Coordinator</button>
+							<button class="btn btn-primary" type="submit" formaction="/message/send/">Message Coordinator</button>
 							<button class="btn btn-primary" type="submit" onclick="alert('social media share dialog box')" formaction="#">Share Opportunity</button>
 						</div>
 				</div>
