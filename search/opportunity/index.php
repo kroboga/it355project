@@ -118,7 +118,7 @@ google.maps.event.addDomListener(window, 'load', initialize);
 			<div id="signedUp">
 				<dl class="dl-horizontal">
 					<div class="signedUpOpp">
-						<dt>Special Olympics</dt>
+						<a href="/opportunity/special.php"><dt>Special Olympics</dt></a>
 						<dd>There are hundreds of Special Olympics offices around the
 						world, and all of them need people at various times during 
 						the year. The best way to become a volunteer is to find the 
@@ -126,7 +126,7 @@ google.maps.event.addDomListener(window, 'load', initialize);
 						<br />
 					</div>
 					<div class="signedUpOpp">
-					<dt>Red Cross</dt>
+					<a href="/opportunity/redcross.php"><dt>Red Cross</dt></a>
 						<dd>The Red Cross responds to approximately 70,000 disasters 
 						in the United States every year, ranging from home fires 
 						that affect a single family to hurricanes that affect tens 
@@ -135,7 +135,7 @@ google.maps.event.addDomListener(window, 'load', initialize);
 						<br />
 					</div>
 					<div class="signedUpOpp">
-					 <dt>Gift of the Heart Exchange</dt>
+					 <a href="/opportunity/heartgift.php"><dt>Gift of the Heart Exchange</dt></a>
 						<dd>Americans each discard an average of 68 pounds of clothes 
 						every year.  By donating your clothing to charity, you can 
 						put some of that to good use. Here are some tips on clearing 
