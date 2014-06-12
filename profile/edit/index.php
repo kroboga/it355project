@@ -4,7 +4,9 @@
 <div class="container">
 	<div class="row">
 		<div class="col-md-12">
-			<h1>Frank Frankenbotham</h1>
+			<div class="form-group">
+					Name: <input class="form-control" type="text" placeholder="Jane Doe">
+			</div>>
 		</div>	
 	</div>
 	<hr style="margin: 40px 0;">

@@ -25,11 +25,11 @@
 					<li>
 						Insert Summary Here
 					</li>
-					<button class="btn btn-primary" type="submit" formaction="/message">Send Message</button>
+					<button class="btn btn-primary" type="submit" formaction="/message/send/">Send Message</button>
 					
 			</div>
 
-			<button class="btn btn-primary" type="submit" formaction="/message">Send Message To Selected Volunteers</button>
+			<button class="btn btn-primary" type="submit" formaction="/message/send/">Send Message To Selected Volunteers</button>
 
 
 		</div>

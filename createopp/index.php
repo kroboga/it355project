@@ -114,15 +114,54 @@
 			<div class="form-group">
 				<label for="checks" class="col-sm-2 control-label">Required Skills:</label>
 				<div id = "computer" class="col-sm-10">
-					<label class="checkbox">
-						<input type="checkbox" id="computer" value="computer"> Computer
-					</label>
-					<label class="checkbox">
-						<input type="checkbox" id="emt" value="emt"> EMT
-					</label>
-					<label class="checkbox">
-						<input type="checkbox" id="blood" value="blood"> Blood Donation
-					</label>
+					<h3>Skills</h3>
+				<div class="checkbox">
+				    <label>
+				      <input type="checkbox"> Computer Skills
+				    </label>
+			    </div>
+
+				<div class="checkbox">
+				    <label>
+				      <input type="checkbox"> Manual Labor Experience
+				    </label>
+			    </div>
+
+				<div class="checkbox">
+				    <label>
+				      <input type="checkbox"> Theater Sound Tech
+				    </label>
+			    </div>
+
+				<div class="checkbox">
+				    <label>
+				      <input type="checkbox"> EMT
+				    </label>
+			    </div>
+
+				<div class="checkbox">
+				    <label>
+				      <input type="checkbox"> Hospice
+				    </label>
+			    </div>
+
+			    <div class="checkbox">
+				    <label>
+				      <input type="checkbox"> Web Development
+				    </label>
+			    </div>
+
+			    <div class="checkbox">
+				    <label>
+				      <input type="checkbox"> Microsoft Office
+				    </label>
+			    </div>
+
+			    <div class="checkbox">
+				    <label>
+				      <input type="checkbox"> Scouting
+				    </label>
+			    </div>
 				</div>
 			</div>
 			<div class="form-group">

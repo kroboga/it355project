@@ -98,15 +98,53 @@ google.maps.event.addDomListener(window, 'load', initialize);
 		</div>
 		<div class="col-md-6">
 			<h4>Desired Skills:</h4>
-			<label class="checkbox">
-				<input type="checkbox" id="Computer" value="computer"> Computer
-			</label>
-			<label class="checkbox">
-				<input type="checkbox" id="EMT" value="emt"> EMT
-			</label>
-			<label class="checkbox">
-				<input type="checkbox" id="Blood Donation" value="blood"> Blood Donation
-			</label>
+				<div class="checkbox">
+				    <label>
+				      <input type="checkbox"> Computer Skills
+				    </label>
+			    </div>
+
+				<div class="checkbox">
+				    <label>
+				      <input type="checkbox"> Manual Labor Experience
+				    </label>
+			    </div>
+
+				<div class="checkbox">
+				    <label>
+				      <input type="checkbox"> Theater Sound Tech
+				    </label>
+			    </div>
+
+				<div class="checkbox">
+				    <label>
+				      <input type="checkbox"> EMT
+				    </label>
+			    </div>
+
+				<div class="checkbox">
+				    <label>
+				      <input type="checkbox"> Hospice
+				    </label>
+			    </div>
+
+			    <div class="checkbox">
+				    <label>
+				      <input type="checkbox"> Web Development
+				    </label>
+			    </div>
+
+			    <div class="checkbox">
+				    <label>
+				      <input type="checkbox"> Microsoft Office
+				    </label>
+			    </div>
+
+			    <div class="checkbox">
+				    <label>
+				      <input type="checkbox"> Scouting
+				    </label>
+			    </div>
 		</div>
 	</div>
 	<div class="row">

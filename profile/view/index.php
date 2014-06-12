@@ -10,9 +10,9 @@
 	<hr style="margin: 40px 0;">
 	<div class="row" style="min-height:500px">
 		<div class="col-md-4">
-			<img class="img-responsive img-rounded" src="/img/profile.jpg" alt="Frank Frankenbotham" style="margin:auto; padding:1em;">
+			<img class="img-responsive img-rounded" src="/img/profile.jpg" alt="Jane Doe" style="margin:auto; padding:1em;">
 			<div class="btn-group">
-				<button class="btn btn-primary" type="submit" formaction="/message">Send Message</button>
+				<button class="btn btn-primary" type="submit" formaction="/message/send/">Send Message</button>
 			</div>
 		</div>
 		<div class="col-md-4" style="text-align:left">
