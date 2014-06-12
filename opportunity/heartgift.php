@@ -37,7 +37,7 @@
 							<br />
 							<br />
 							<li>
-								<form action="/" method="get">
+								<form action="/dashboard/" method="get">
 									<div class="btn-group-vertical">
 										<button class="btn btn-primary" type="submit" formaction="/">Share Opportunity</button>
 										<button class="btn btn-primary" type="submit" formaction="/">Join Opportunity</button>
