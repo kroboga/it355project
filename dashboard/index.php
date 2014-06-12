@@ -70,7 +70,7 @@
 
 			<div id="createdOpps">
 		
-				<h1>Opportuntities You're in Charge of:</h1>
+				<h1>Opportunities You're in Charge of:</h1>
 				
 				<div class="signedUpOpp">
 					<h2><a href="/opportunity/heartgift.php">Gift of the Heart Exchange</a></h2>
